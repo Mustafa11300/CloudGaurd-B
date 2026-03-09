@@ -1,0 +1,3992 @@
+[
+  {
+    "resource_id": "i-edfc0742b7",
+    "resource_type": "EC2",
+    "instance_type": "t3.small",
+    "region": "us-east-1",
+    "state": "running",
+    "cpu_avg_percent": 32.36,
+    "running_hours_30d": 209,
+    "hourly_cost_usd": 0.0208,
+    "monthly_cost_usd": 4.35,
+    "has_purpose_tag": true,
+    "last_seen": "2026-02-25T13:05:43.804531",
+    "scan_timestamp": "2026-03-08T13:05:43.804544"
+  },
+  {
+    "resource_id": "i-64f8b0b822",
+    "resource_type": "EC2",
+    "instance_type": "m5.xlarge",
+    "region": "eu-west-1",
+    "state": "running",
+    "cpu_avg_percent": 1.33,
+    "running_hours_30d": 458,
+    "hourly_cost_usd": 0.192,
+    "monthly_cost_usd": 87.94,
+    "has_purpose_tag": false,
+    "last_seen": "2025-12-24T13:05:43.804564",
+    "scan_timestamp": "2026-03-08T13:05:43.804567"
+  },
+  {
+    "resource_id": "i-b14265762c",
+    "resource_type": "EC2",
+    "instance_type": "m5.2xlarge",
+    "region": "ap-southeast-1",
+    "state": "running",
+    "cpu_avg_percent": 84.1,
+    "running_hours_30d": 678,
+    "hourly_cost_usd": 0.384,
+    "monthly_cost_usd": 260.35,
+    "has_purpose_tag": true,
+    "last_seen": "2026-02-19T13:05:43.804582",
+    "scan_timestamp": "2026-03-08T13:05:43.804584"
+  },
+  {
+    "resource_id": "i-556728ae79",
+    "resource_type": "EC2",
+    "instance_type": "m5.2xlarge",
+    "region": "us-west-2",
+    "state": "running",
+    "cpu_avg_percent": 26.76,
+    "running_hours_30d": 170,
+    "hourly_cost_usd": 0.384,
+    "monthly_cost_usd": 65.28,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-26T13:05:43.804597",
+    "scan_timestamp": "2026-03-08T13:05:43.804599"
+  },
+  {
+    "resource_id": "i-fa8bd012d4",
+    "resource_type": "EC2",
+    "instance_type": "m5.large",
+    "region": "us-west-2",
+    "state": "running",
+    "cpu_avg_percent": 68.06,
+    "running_hours_30d": 400,
+    "hourly_cost_usd": 0.096,
+    "monthly_cost_usd": 38.4,
+    "has_purpose_tag": false,
+    "last_seen": "2025-12-18T13:05:43.804611",
+    "scan_timestamp": "2026-03-08T13:05:43.804613"
+  },
+  {
+    "resource_id": "i-c854ce8dea",
+    "resource_type": "EC2",
+    "instance_type": "t3.large",
+    "region": "us-west-2",
+    "state": "stopped",
+    "cpu_avg_percent": 2.5,
+    "running_hours_30d": 29,
+    "hourly_cost_usd": 0.0832,
+    "monthly_cost_usd": 2.41,
+    "has_purpose_tag": true,
+    "last_seen": "2026-02-02T13:05:43.804625",
+    "scan_timestamp": "2026-03-08T13:05:43.804627"
+  },
+  {
+    "resource_id": "i-c3b9453f2d",
+    "resource_type": "EC2",
+    "instance_type": "m5.2xlarge",
+    "region": "eu-west-1",
+    "state": "stopped",
+    "cpu_avg_percent": 31.31,
+    "running_hours_30d": 128,
+    "hourly_cost_usd": 0.384,
+    "monthly_cost_usd": 49.15,
+    "has_purpose_tag": true,
+    "last_seen": "2026-02-03T13:05:43.804639",
+    "scan_timestamp": "2026-03-08T13:05:43.804641"
+  },
+  {
+    "resource_id": "i-7a9977722c",
+    "resource_type": "EC2",
+    "instance_type": "c5.xlarge",
+    "region": "ap-southeast-1",
+    "state": "running",
+    "cpu_avg_percent": 31.45,
+    "running_hours_30d": 51,
+    "hourly_cost_usd": 0.17,
+    "monthly_cost_usd": 8.67,
+    "has_purpose_tag": false,
+    "last_seen": "2025-12-13T13:05:43.804652",
+    "scan_timestamp": "2026-03-08T13:05:43.804654"
+  },
+  {
+    "resource_id": "i-377b1aa593",
+    "resource_type": "EC2",
+    "instance_type": "t3.large",
+    "region": "eu-west-1",
+    "state": "stopped",
+    "cpu_avg_percent": 3.06,
+    "running_hours_30d": 207,
+    "hourly_cost_usd": 0.0832,
+    "monthly_cost_usd": 17.22,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-01T13:05:43.804665",
+    "scan_timestamp": "2026-03-08T13:05:43.804667"
+  },
+  {
+    "resource_id": "i-091c881f05",
+    "resource_type": "EC2",
+    "instance_type": "c5.xlarge",
+    "region": "us-west-2",
+    "state": "running",
+    "cpu_avg_percent": 27.63,
+    "running_hours_30d": 368,
+    "hourly_cost_usd": 0.17,
+    "monthly_cost_usd": 62.56,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-11T13:05:43.804678",
+    "scan_timestamp": "2026-03-08T13:05:43.804679"
+  },
+  {
+    "resource_id": "i-083e599a9a",
+    "resource_type": "EC2",
+    "instance_type": "m5.large",
+    "region": "us-west-2",
+    "state": "stopped",
+    "cpu_avg_percent": 44.49,
+    "running_hours_30d": 351,
+    "hourly_cost_usd": 0.096,
+    "monthly_cost_usd": 33.7,
+    "has_purpose_tag": false,
+    "last_seen": "2026-01-24T13:05:43.804691",
+    "scan_timestamp": "2026-03-08T13:05:43.804693"
+  },
+  {
+    "resource_id": "i-71a03e16fa",
+    "resource_type": "EC2",
+    "instance_type": "m5.2xlarge",
+    "region": "us-west-2",
+    "state": "running",
+    "cpu_avg_percent": 2.6,
+    "running_hours_30d": 298,
+    "hourly_cost_usd": 0.384,
+    "monthly_cost_usd": 114.43,
+    "has_purpose_tag": true,
+    "last_seen": "2026-02-18T13:05:43.804830",
+    "scan_timestamp": "2026-03-08T13:05:43.804854"
+  },
+  {
+    "resource_id": "i-6601056c8d",
+    "resource_type": "EC2",
+    "instance_type": "t3.small",
+    "region": "us-west-2",
+    "state": "running",
+    "cpu_avg_percent": 1.55,
+    "running_hours_30d": 525,
+    "hourly_cost_usd": 0.0208,
+    "monthly_cost_usd": 10.92,
+    "has_purpose_tag": true,
+    "last_seen": "2026-02-27T13:05:43.804918",
+    "scan_timestamp": "2026-03-08T13:05:43.804926"
+  },
+  {
+    "resource_id": "i-af2327907b",
+    "resource_type": "EC2",
+    "instance_type": "m5.xlarge",
+    "region": "eu-west-1",
+    "state": "stopped",
+    "cpu_avg_percent": 38.59,
+    "running_hours_30d": 169,
+    "hourly_cost_usd": 0.192,
+    "monthly_cost_usd": 32.45,
+    "has_purpose_tag": false,
+    "last_seen": "2026-02-08T13:05:43.804969",
+    "scan_timestamp": "2026-03-08T13:05:43.804976"
+  },
+  {
+    "resource_id": "i-e004e2f6ea",
+    "resource_type": "EC2",
+    "instance_type": "m5.2xlarge",
+    "region": "us-east-1",
+    "state": "running",
+    "cpu_avg_percent": 38.06,
+    "running_hours_30d": 217,
+    "hourly_cost_usd": 0.384,
+    "monthly_cost_usd": 83.33,
+    "has_purpose_tag": true,
+    "last_seen": "2025-12-21T13:05:43.804993",
+    "scan_timestamp": "2026-03-08T13:05:43.804995"
+  },
+  {
+    "resource_id": "i-69cf7c47b4",
+    "resource_type": "EC2",
+    "instance_type": "m5.xlarge",
+    "region": "us-west-2",
+    "state": "running",
+    "cpu_avg_percent": 61.88,
+    "running_hours_30d": 592,
+    "hourly_cost_usd": 0.192,
+    "monthly_cost_usd": 113.66,
+    "has_purpose_tag": false,
+    "last_seen": "2025-12-12T13:05:43.805009",
+    "scan_timestamp": "2026-03-08T13:05:43.805011"
+  },
+  {
+    "resource_id": "i-555b99e692",
+    "resource_type": "EC2",
+    "instance_type": "t3.small",
+    "region": "ap-southeast-1",
+    "state": "running",
+    "cpu_avg_percent": 64.17,
+    "running_hours_30d": 540,
+    "hourly_cost_usd": 0.0208,
+    "monthly_cost_usd": 11.23,
+    "has_purpose_tag": true,
+    "last_seen": "2026-02-01T13:05:43.805023",
+    "scan_timestamp": "2026-03-08T13:05:43.805025"
+  },
+  {
+    "resource_id": "i-71582b95ee",
+    "resource_type": "EC2",
+    "instance_type": "t3.micro",
+    "region": "us-east-1",
+    "state": "stopped",
+    "cpu_avg_percent": 2.85,
+    "running_hours_30d": 196,
+    "hourly_cost_usd": 0.0104,
+    "monthly_cost_usd": 2.04,
+    "has_purpose_tag": false,
+    "last_seen": "2026-03-03T13:05:43.805037",
+    "scan_timestamp": "2026-03-08T13:05:43.805039"
+  },
+  {
+    "resource_id": "i-a4ebb4dfb0",
+    "resource_type": "EC2",
+    "instance_type": "m5.xlarge",
+    "region": "eu-west-1",
+    "state": "stopped",
+    "cpu_avg_percent": 69.92,
+    "running_hours_30d": 640,
+    "hourly_cost_usd": 0.192,
+    "monthly_cost_usd": 122.88,
+    "has_purpose_tag": false,
+    "last_seen": "2026-01-12T13:05:43.805050",
+    "scan_timestamp": "2026-03-08T13:05:43.805052"
+  },
+  {
+    "resource_id": "i-0ae45771a7",
+    "resource_type": "EC2",
+    "instance_type": "t3.medium",
+    "region": "eu-west-1",
+    "state": "running",
+    "cpu_avg_percent": 50.83,
+    "running_hours_30d": 529,
+    "hourly_cost_usd": 0.0416,
+    "monthly_cost_usd": 22.01,
+    "has_purpose_tag": true,
+    "last_seen": "2026-03-04T13:05:43.805064",
+    "scan_timestamp": "2026-03-08T13:05:43.805066"
+  },
+  {
+    "resource_id": "i-ea94dd956f",
+    "resource_type": "EC2",
+    "instance_type": "c5.xlarge",
+    "region": "eu-west-1",
+    "state": "running",
+    "cpu_avg_percent": 3.49,
+    "running_hours_30d": 196,
+    "hourly_cost_usd": 0.17,
+    "monthly_cost_usd": 33.32,
+    "has_purpose_tag": false,
+    "last_seen": "2026-01-07T13:05:43.805077",
+    "scan_timestamp": "2026-03-08T13:05:43.805079"
+  },
+  {
+    "resource_id": "i-7b5920835a",
+    "resource_type": "EC2",
+    "instance_type": "t3.small",
+    "region": "ap-southeast-1",
+    "state": "running",
+    "cpu_avg_percent": 3.2,
+    "running_hours_30d": 559,
+    "hourly_cost_usd": 0.0208,
+    "monthly_cost_usd": 11.63,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-17T13:05:43.805090",
+    "scan_timestamp": "2026-03-08T13:05:43.805092"
+  },
+  {
+    "resource_id": "i-1386c230c8",
+    "resource_type": "EC2",
+    "instance_type": "r5.large",
+    "region": "ap-southeast-1",
+    "state": "stopped",
+    "cpu_avg_percent": 65.25,
+    "running_hours_30d": 654,
+    "hourly_cost_usd": 0.126,
+    "monthly_cost_usd": 82.4,
+    "has_purpose_tag": true,
+    "last_seen": "2025-12-17T13:05:43.805103",
+    "scan_timestamp": "2026-03-08T13:05:43.805105"
+  },
+  {
+    "resource_id": "i-9f6af9df45",
+    "resource_type": "EC2",
+    "instance_type": "m5.2xlarge",
+    "region": "us-east-1",
+    "state": "running",
+    "cpu_avg_percent": 28.31,
+    "running_hours_30d": 614,
+    "hourly_cost_usd": 0.384,
+    "monthly_cost_usd": 235.78,
+    "has_purpose_tag": false,
+    "last_seen": "2026-01-10T13:05:43.805116",
+    "scan_timestamp": "2026-03-08T13:05:43.805118"
+  },
+  {
+    "resource_id": "i-1a60b2ebe8",
+    "resource_type": "EC2",
+    "instance_type": "c5.xlarge",
+    "region": "eu-west-1",
+    "state": "running",
+    "cpu_avg_percent": 1.92,
+    "running_hours_30d": 380,
+    "hourly_cost_usd": 0.17,
+    "monthly_cost_usd": 64.6,
+    "has_purpose_tag": false,
+    "last_seen": "2025-12-30T13:05:43.805130",
+    "scan_timestamp": "2026-03-08T13:05:43.805132"
+  },
+  {
+    "resource_id": "i-efff5b9afc",
+    "resource_type": "EC2",
+    "instance_type": "r5.large",
+    "region": "eu-west-1",
+    "state": "running",
+    "cpu_avg_percent": 51.86,
+    "running_hours_30d": 546,
+    "hourly_cost_usd": 0.126,
+    "monthly_cost_usd": 68.8,
+    "has_purpose_tag": true,
+    "last_seen": "2025-12-24T13:05:43.805143",
+    "scan_timestamp": "2026-03-08T13:05:43.805145"
+  },
+  {
+    "resource_id": "i-a9bc83f782",
+    "resource_type": "EC2",
+    "instance_type": "c5.xlarge",
+    "region": "eu-west-1",
+    "state": "running",
+    "cpu_avg_percent": 48.36,
+    "running_hours_30d": 276,
+    "hourly_cost_usd": 0.17,
+    "monthly_cost_usd": 46.92,
+    "has_purpose_tag": true,
+    "last_seen": "2025-12-24T13:05:43.805157",
+    "scan_timestamp": "2026-03-08T13:05:43.805159"
+  },
+  {
+    "resource_id": "i-28fa7d4d32",
+    "resource_type": "EC2",
+    "instance_type": "t3.medium",
+    "region": "us-east-1",
+    "state": "running",
+    "cpu_avg_percent": 64.03,
+    "running_hours_30d": 82,
+    "hourly_cost_usd": 0.0416,
+    "monthly_cost_usd": 3.41,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-25T13:05:43.805170",
+    "scan_timestamp": "2026-03-08T13:05:43.805172"
+  },
+  {
+    "resource_id": "i-ca5851f795",
+    "resource_type": "EC2",
+    "instance_type": "c5.xlarge",
+    "region": "us-west-2",
+    "state": "running",
+    "cpu_avg_percent": 80.8,
+    "running_hours_30d": 103,
+    "hourly_cost_usd": 0.17,
+    "monthly_cost_usd": 17.51,
+    "has_purpose_tag": true,
+    "last_seen": "2026-02-09T13:05:43.805183",
+    "scan_timestamp": "2026-03-08T13:05:43.805185"
+  },
+  {
+    "resource_id": "i-124a630359",
+    "resource_type": "EC2",
+    "instance_type": "m5.2xlarge",
+    "region": "eu-west-1",
+    "state": "running",
+    "cpu_avg_percent": 77.88,
+    "running_hours_30d": 414,
+    "hourly_cost_usd": 0.384,
+    "monthly_cost_usd": 158.98,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-27T13:05:43.805252",
+    "scan_timestamp": "2026-03-08T13:05:43.805288"
+  },
+  {
+    "resource_id": "i-7e4edda798",
+    "resource_type": "EC2",
+    "instance_type": "t3.medium",
+    "region": "ap-southeast-1",
+    "state": "running",
+    "cpu_avg_percent": 64.2,
+    "running_hours_30d": 224,
+    "hourly_cost_usd": 0.0416,
+    "monthly_cost_usd": 9.32,
+    "has_purpose_tag": true,
+    "last_seen": "2026-02-10T13:05:43.805303",
+    "scan_timestamp": "2026-03-08T13:05:43.805305"
+  },
+  {
+    "resource_id": "i-72c53c4dba",
+    "resource_type": "EC2",
+    "instance_type": "t3.small",
+    "region": "eu-west-1",
+    "state": "stopped",
+    "cpu_avg_percent": 68.17,
+    "running_hours_30d": 204,
+    "hourly_cost_usd": 0.0208,
+    "monthly_cost_usd": 4.24,
+    "has_purpose_tag": false,
+    "last_seen": "2025-12-21T13:05:43.805317",
+    "scan_timestamp": "2026-03-08T13:05:43.805319"
+  },
+  {
+    "resource_id": "i-b031d6e96a",
+    "resource_type": "EC2",
+    "instance_type": "t3.small",
+    "region": "eu-west-1",
+    "state": "running",
+    "cpu_avg_percent": 1.32,
+    "running_hours_30d": 282,
+    "hourly_cost_usd": 0.0208,
+    "monthly_cost_usd": 5.87,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-27T13:05:43.805330",
+    "scan_timestamp": "2026-03-08T13:05:43.805332"
+  },
+  {
+    "resource_id": "i-1aa8805253",
+    "resource_type": "EC2",
+    "instance_type": "m5.xlarge",
+    "region": "eu-west-1",
+    "state": "running",
+    "cpu_avg_percent": 29.36,
+    "running_hours_30d": 208,
+    "hourly_cost_usd": 0.192,
+    "monthly_cost_usd": 39.94,
+    "has_purpose_tag": true,
+    "last_seen": "2026-03-01T13:05:43.805344",
+    "scan_timestamp": "2026-03-08T13:05:43.805346"
+  },
+  {
+    "resource_id": "i-39b302c2a7",
+    "resource_type": "EC2",
+    "instance_type": "m5.xlarge",
+    "region": "us-west-2",
+    "state": "stopped",
+    "cpu_avg_percent": 63.78,
+    "running_hours_30d": 187,
+    "hourly_cost_usd": 0.192,
+    "monthly_cost_usd": 35.9,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-06T13:05:43.805357",
+    "scan_timestamp": "2026-03-08T13:05:43.805359"
+  },
+  {
+    "resource_id": "i-57671ca87f",
+    "resource_type": "EC2",
+    "instance_type": "m5.xlarge",
+    "region": "us-east-1",
+    "state": "running",
+    "cpu_avg_percent": 61.3,
+    "running_hours_30d": 180,
+    "hourly_cost_usd": 0.192,
+    "monthly_cost_usd": 34.56,
+    "has_purpose_tag": false,
+    "last_seen": "2026-02-15T13:05:43.805370",
+    "scan_timestamp": "2026-03-08T13:05:43.805371"
+  },
+  {
+    "resource_id": "i-f0be27bbdd",
+    "resource_type": "EC2",
+    "instance_type": "r5.large",
+    "region": "eu-west-1",
+    "state": "stopped",
+    "cpu_avg_percent": 74.54,
+    "running_hours_30d": 272,
+    "hourly_cost_usd": 0.126,
+    "monthly_cost_usd": 34.27,
+    "has_purpose_tag": true,
+    "last_seen": "2025-12-17T13:05:43.805383",
+    "scan_timestamp": "2026-03-08T13:05:43.805385"
+  },
+  {
+    "resource_id": "i-43945fe2c0",
+    "resource_type": "EC2",
+    "instance_type": "t3.large",
+    "region": "ap-southeast-1",
+    "state": "running",
+    "cpu_avg_percent": 48.15,
+    "running_hours_30d": 433,
+    "hourly_cost_usd": 0.0832,
+    "monthly_cost_usd": 36.03,
+    "has_purpose_tag": true,
+    "last_seen": "2025-12-15T13:05:43.805396",
+    "scan_timestamp": "2026-03-08T13:05:43.805397"
+  },
+  {
+    "resource_id": "i-fdb0b26f24",
+    "resource_type": "EC2",
+    "instance_type": "t3.large",
+    "region": "us-east-1",
+    "state": "running",
+    "cpu_avg_percent": 4.44,
+    "running_hours_30d": 516,
+    "hourly_cost_usd": 0.0832,
+    "monthly_cost_usd": 42.93,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-27T13:05:43.805410",
+    "scan_timestamp": "2026-03-08T13:05:43.805411"
+  },
+  {
+    "resource_id": "i-0a867e11e5",
+    "resource_type": "EC2",
+    "instance_type": "r5.large",
+    "region": "eu-west-1",
+    "state": "running",
+    "cpu_avg_percent": 3.82,
+    "running_hours_30d": 113,
+    "hourly_cost_usd": 0.126,
+    "monthly_cost_usd": 14.24,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-15T13:05:43.805423",
+    "scan_timestamp": "2026-03-08T13:05:43.805425"
+  },
+  {
+    "resource_id": "i-2af71d8458",
+    "resource_type": "EC2",
+    "instance_type": "r5.large",
+    "region": "us-west-2",
+    "state": "running",
+    "cpu_avg_percent": 2.74,
+    "running_hours_30d": 165,
+    "hourly_cost_usd": 0.126,
+    "monthly_cost_usd": 20.79,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-14T13:05:43.805436",
+    "scan_timestamp": "2026-03-08T13:05:43.805438"
+  },
+  {
+    "resource_id": "i-48197646f6",
+    "resource_type": "EC2",
+    "instance_type": "c5.xlarge",
+    "region": "us-east-1",
+    "state": "running",
+    "cpu_avg_percent": 2.48,
+    "running_hours_30d": 76,
+    "hourly_cost_usd": 0.17,
+    "monthly_cost_usd": 12.92,
+    "has_purpose_tag": true,
+    "last_seen": "2026-02-13T13:05:43.805449",
+    "scan_timestamp": "2026-03-08T13:05:43.805451"
+  },
+  {
+    "resource_id": "i-060ec3a982",
+    "resource_type": "EC2",
+    "instance_type": "t3.small",
+    "region": "us-east-1",
+    "state": "running",
+    "cpu_avg_percent": 4.78,
+    "running_hours_30d": 495,
+    "hourly_cost_usd": 0.0208,
+    "monthly_cost_usd": 10.3,
+    "has_purpose_tag": false,
+    "last_seen": "2025-12-08T13:05:43.805463",
+    "scan_timestamp": "2026-03-08T13:05:43.805465"
+  },
+  {
+    "resource_id": "i-22ddd7a637",
+    "resource_type": "EC2",
+    "instance_type": "t3.medium",
+    "region": "us-east-1",
+    "state": "running",
+    "cpu_avg_percent": 2.98,
+    "running_hours_30d": 566,
+    "hourly_cost_usd": 0.0416,
+    "monthly_cost_usd": 23.55,
+    "has_purpose_tag": true,
+    "last_seen": "2026-02-25T13:05:43.805476",
+    "scan_timestamp": "2026-03-08T13:05:43.805478"
+  },
+  {
+    "resource_id": "i-f1c0763959",
+    "resource_type": "EC2",
+    "instance_type": "r5.large",
+    "region": "eu-west-1",
+    "state": "running",
+    "cpu_avg_percent": 72.66,
+    "running_hours_30d": 481,
+    "hourly_cost_usd": 0.126,
+    "monthly_cost_usd": 60.61,
+    "has_purpose_tag": false,
+    "last_seen": "2026-02-08T13:05:43.805490",
+    "scan_timestamp": "2026-03-08T13:05:43.805491"
+  },
+  {
+    "resource_id": "i-6b1c6a1bfc",
+    "resource_type": "EC2",
+    "instance_type": "c5.xlarge",
+    "region": "eu-west-1",
+    "state": "running",
+    "cpu_avg_percent": 22.19,
+    "running_hours_30d": 589,
+    "hourly_cost_usd": 0.17,
+    "monthly_cost_usd": 100.13,
+    "has_purpose_tag": true,
+    "last_seen": "2025-12-21T13:05:43.805503",
+    "scan_timestamp": "2026-03-08T13:05:43.805504"
+  },
+  {
+    "resource_id": "i-b4499551e3",
+    "resource_type": "EC2",
+    "instance_type": "m5.large",
+    "region": "eu-west-1",
+    "state": "stopped",
+    "cpu_avg_percent": 63.02,
+    "running_hours_30d": 657,
+    "hourly_cost_usd": 0.096,
+    "monthly_cost_usd": 63.07,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-28T13:05:43.805516",
+    "scan_timestamp": "2026-03-08T13:05:43.805517"
+  },
+  {
+    "resource_id": "i-6a140ae237",
+    "resource_type": "EC2",
+    "instance_type": "m5.xlarge",
+    "region": "eu-west-1",
+    "state": "running",
+    "cpu_avg_percent": 84.95,
+    "running_hours_30d": 137,
+    "hourly_cost_usd": 0.192,
+    "monthly_cost_usd": 26.3,
+    "has_purpose_tag": false,
+    "last_seen": "2026-03-08T13:05:43.805529",
+    "scan_timestamp": "2026-03-08T13:05:43.805531"
+  },
+  {
+    "resource_id": "i-9b7299099b",
+    "resource_type": "EC2",
+    "instance_type": "r5.large",
+    "region": "us-west-2",
+    "state": "running",
+    "cpu_avg_percent": 65.28,
+    "running_hours_30d": 659,
+    "hourly_cost_usd": 0.126,
+    "monthly_cost_usd": 83.03,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-18T13:05:43.805542",
+    "scan_timestamp": "2026-03-08T13:05:43.805544"
+  },
+  {
+    "resource_id": "i-95cbee1373",
+    "resource_type": "EC2",
+    "instance_type": "t3.large",
+    "region": "eu-west-1",
+    "state": "stopped",
+    "cpu_avg_percent": 60.99,
+    "running_hours_30d": 254,
+    "hourly_cost_usd": 0.0832,
+    "monthly_cost_usd": 21.13,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-29T13:05:43.805555",
+    "scan_timestamp": "2026-03-08T13:05:43.805557"
+  },
+  {
+    "resource_id": "i-9c16ef9c80",
+    "resource_type": "EC2",
+    "instance_type": "t3.medium",
+    "region": "ap-southeast-1",
+    "state": "stopped",
+    "cpu_avg_percent": 24.38,
+    "running_hours_30d": 426,
+    "hourly_cost_usd": 0.0416,
+    "monthly_cost_usd": 17.72,
+    "has_purpose_tag": false,
+    "last_seen": "2025-12-15T13:05:43.805568",
+    "scan_timestamp": "2026-03-08T13:05:43.805570"
+  },
+  {
+    "resource_id": "i-acaeba5592",
+    "resource_type": "EC2",
+    "instance_type": "t3.small",
+    "region": "us-east-1",
+    "state": "running",
+    "cpu_avg_percent": 2.94,
+    "running_hours_30d": 93,
+    "hourly_cost_usd": 0.0208,
+    "monthly_cost_usd": 1.93,
+    "has_purpose_tag": true,
+    "last_seen": "2026-02-07T13:05:43.805581",
+    "scan_timestamp": "2026-03-08T13:05:43.805583"
+  },
+  {
+    "resource_id": "i-41786284b3",
+    "resource_type": "EC2",
+    "instance_type": "t3.large",
+    "region": "us-west-2",
+    "state": "running",
+    "cpu_avg_percent": 27.81,
+    "running_hours_30d": 323,
+    "hourly_cost_usd": 0.0832,
+    "monthly_cost_usd": 26.87,
+    "has_purpose_tag": false,
+    "last_seen": "2026-01-29T13:05:43.805594",
+    "scan_timestamp": "2026-03-08T13:05:43.805596"
+  },
+  {
+    "resource_id": "i-2794da129d",
+    "resource_type": "EC2",
+    "instance_type": "r5.large",
+    "region": "ap-southeast-1",
+    "state": "running",
+    "cpu_avg_percent": 37.71,
+    "running_hours_30d": 681,
+    "hourly_cost_usd": 0.126,
+    "monthly_cost_usd": 85.81,
+    "has_purpose_tag": true,
+    "last_seen": "2026-02-07T13:05:43.805672",
+    "scan_timestamp": "2026-03-08T13:05:43.805682"
+  },
+  {
+    "resource_id": "i-c33158271c",
+    "resource_type": "EC2",
+    "instance_type": "c5.xlarge",
+    "region": "us-west-2",
+    "state": "running",
+    "cpu_avg_percent": 71.35,
+    "running_hours_30d": 172,
+    "hourly_cost_usd": 0.17,
+    "monthly_cost_usd": 29.24,
+    "has_purpose_tag": false,
+    "last_seen": "2025-12-18T13:05:43.805721",
+    "scan_timestamp": "2026-03-08T13:05:43.805728"
+  },
+  {
+    "resource_id": "i-5399c5805d",
+    "resource_type": "EC2",
+    "instance_type": "m5.large",
+    "region": "eu-west-1",
+    "state": "running",
+    "cpu_avg_percent": 1.88,
+    "running_hours_30d": 286,
+    "hourly_cost_usd": 0.096,
+    "monthly_cost_usd": 27.46,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-06T13:05:43.805763",
+    "scan_timestamp": "2026-03-08T13:05:43.805769"
+  },
+  {
+    "resource_id": "i-6eaba2bd61",
+    "resource_type": "EC2",
+    "instance_type": "c5.xlarge",
+    "region": "ap-southeast-1",
+    "state": "stopped",
+    "cpu_avg_percent": 3.4,
+    "running_hours_30d": 545,
+    "hourly_cost_usd": 0.17,
+    "monthly_cost_usd": 92.65,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-02T13:05:43.805802",
+    "scan_timestamp": "2026-03-08T13:05:43.805808"
+  },
+  {
+    "resource_id": "i-31cfecf405",
+    "resource_type": "EC2",
+    "instance_type": "c5.xlarge",
+    "region": "eu-west-1",
+    "state": "stopped",
+    "cpu_avg_percent": 4.77,
+    "running_hours_30d": 239,
+    "hourly_cost_usd": 0.17,
+    "monthly_cost_usd": 40.63,
+    "has_purpose_tag": true,
+    "last_seen": "2025-12-15T13:05:43.805843",
+    "scan_timestamp": "2026-03-08T13:05:43.805849"
+  },
+  {
+    "resource_id": "i-d487cd3335",
+    "resource_type": "EC2",
+    "instance_type": "m5.2xlarge",
+    "region": "us-east-1",
+    "state": "running",
+    "cpu_avg_percent": 4.3,
+    "running_hours_30d": 457,
+    "hourly_cost_usd": 0.384,
+    "monthly_cost_usd": 175.49,
+    "has_purpose_tag": false,
+    "last_seen": "2026-02-15T13:05:43.805883",
+    "scan_timestamp": "2026-03-08T13:05:43.805889"
+  },
+  {
+    "resource_id": "i-46b36c1c5f",
+    "resource_type": "EC2",
+    "instance_type": "r5.large",
+    "region": "ap-southeast-1",
+    "state": "stopped",
+    "cpu_avg_percent": 46.19,
+    "running_hours_30d": 668,
+    "hourly_cost_usd": 0.126,
+    "monthly_cost_usd": 84.17,
+    "has_purpose_tag": true,
+    "last_seen": "2025-12-20T13:05:43.805958",
+    "scan_timestamp": "2026-03-08T13:05:43.805971"
+  },
+  {
+    "resource_id": "i-b78eaf1c2e",
+    "resource_type": "EC2",
+    "instance_type": "t3.small",
+    "region": "ap-southeast-1",
+    "state": "stopped",
+    "cpu_avg_percent": 41.43,
+    "running_hours_30d": 457,
+    "hourly_cost_usd": 0.0208,
+    "monthly_cost_usd": 9.51,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-27T13:05:43.806010",
+    "scan_timestamp": "2026-03-08T13:05:43.806017"
+  },
+  {
+    "resource_id": "i-e348bb4107",
+    "resource_type": "EC2",
+    "instance_type": "t3.small",
+    "region": "ap-southeast-1",
+    "state": "running",
+    "cpu_avg_percent": 1.3,
+    "running_hours_30d": 289,
+    "hourly_cost_usd": 0.0208,
+    "monthly_cost_usd": 6.01,
+    "has_purpose_tag": true,
+    "last_seen": "2026-02-06T13:05:43.806053",
+    "scan_timestamp": "2026-03-08T13:05:43.806059"
+  },
+  {
+    "resource_id": "i-ad84f91b6c",
+    "resource_type": "EC2",
+    "instance_type": "t3.small",
+    "region": "us-east-1",
+    "state": "running",
+    "cpu_avg_percent": 53.77,
+    "running_hours_30d": 222,
+    "hourly_cost_usd": 0.0208,
+    "monthly_cost_usd": 4.62,
+    "has_purpose_tag": true,
+    "last_seen": "2026-02-13T13:05:43.806096",
+    "scan_timestamp": "2026-03-08T13:05:43.806102"
+  },
+  {
+    "resource_id": "i-6ae062c8b5",
+    "resource_type": "EC2",
+    "instance_type": "m5.xlarge",
+    "region": "eu-west-1",
+    "state": "running",
+    "cpu_avg_percent": 2.9,
+    "running_hours_30d": 626,
+    "hourly_cost_usd": 0.192,
+    "monthly_cost_usd": 120.19,
+    "has_purpose_tag": false,
+    "last_seen": "2026-03-08T13:05:43.806137",
+    "scan_timestamp": "2026-03-08T13:05:43.806144"
+  },
+  {
+    "resource_id": "i-3eea0ac179",
+    "resource_type": "EC2",
+    "instance_type": "c5.xlarge",
+    "region": "ap-southeast-1",
+    "state": "running",
+    "cpu_avg_percent": 2.4,
+    "running_hours_30d": 392,
+    "hourly_cost_usd": 0.17,
+    "monthly_cost_usd": 66.64,
+    "has_purpose_tag": true,
+    "last_seen": "2026-02-03T13:05:43.806178",
+    "scan_timestamp": "2026-03-08T13:05:43.806185"
+  },
+  {
+    "resource_id": "i-48a486a886",
+    "resource_type": "EC2",
+    "instance_type": "t3.micro",
+    "region": "eu-west-1",
+    "state": "running",
+    "cpu_avg_percent": 52.75,
+    "running_hours_30d": 502,
+    "hourly_cost_usd": 0.0104,
+    "monthly_cost_usd": 5.22,
+    "has_purpose_tag": false,
+    "last_seen": "2026-02-03T13:05:43.806220",
+    "scan_timestamp": "2026-03-08T13:05:43.806226"
+  },
+  {
+    "resource_id": "i-2762cb4e1e",
+    "resource_type": "EC2",
+    "instance_type": "c5.xlarge",
+    "region": "ap-southeast-1",
+    "state": "running",
+    "cpu_avg_percent": 2.8,
+    "running_hours_30d": 439,
+    "hourly_cost_usd": 0.17,
+    "monthly_cost_usd": 74.63,
+    "has_purpose_tag": true,
+    "last_seen": "2026-02-26T13:05:43.806262",
+    "scan_timestamp": "2026-03-08T13:05:43.806268"
+  },
+  {
+    "resource_id": "i-1ec6911925",
+    "resource_type": "EC2",
+    "instance_type": "r5.large",
+    "region": "ap-southeast-1",
+    "state": "stopped",
+    "cpu_avg_percent": 58.37,
+    "running_hours_30d": 365,
+    "hourly_cost_usd": 0.126,
+    "monthly_cost_usd": 45.99,
+    "has_purpose_tag": true,
+    "last_seen": "2026-02-08T13:05:43.806353",
+    "scan_timestamp": "2026-03-08T13:05:43.806361"
+  },
+  {
+    "resource_id": "i-59eec2b955",
+    "resource_type": "EC2",
+    "instance_type": "t3.small",
+    "region": "ap-southeast-1",
+    "state": "running",
+    "cpu_avg_percent": 21.72,
+    "running_hours_30d": 640,
+    "hourly_cost_usd": 0.0208,
+    "monthly_cost_usd": 13.31,
+    "has_purpose_tag": false,
+    "last_seen": "2026-01-22T13:05:43.806399",
+    "scan_timestamp": "2026-03-08T13:05:43.806406"
+  },
+  {
+    "resource_id": "i-5c53ddba50",
+    "resource_type": "EC2",
+    "instance_type": "r5.large",
+    "region": "us-west-2",
+    "state": "running",
+    "cpu_avg_percent": 4.95,
+    "running_hours_30d": 645,
+    "hourly_cost_usd": 0.126,
+    "monthly_cost_usd": 81.27,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-19T13:05:43.806440",
+    "scan_timestamp": "2026-03-08T13:05:43.806446"
+  },
+  {
+    "resource_id": "i-bb62910b32",
+    "resource_type": "EC2",
+    "instance_type": "t3.medium",
+    "region": "eu-west-1",
+    "state": "running",
+    "cpu_avg_percent": 46.58,
+    "running_hours_30d": 645,
+    "hourly_cost_usd": 0.0416,
+    "monthly_cost_usd": 26.83,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-12T13:05:43.806479",
+    "scan_timestamp": "2026-03-08T13:05:43.806485"
+  },
+  {
+    "resource_id": "i-4a33f31794",
+    "resource_type": "EC2",
+    "instance_type": "m5.large",
+    "region": "us-west-2",
+    "state": "running",
+    "cpu_avg_percent": 55.32,
+    "running_hours_30d": 506,
+    "hourly_cost_usd": 0.096,
+    "monthly_cost_usd": 48.58,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-22T13:05:43.806518",
+    "scan_timestamp": "2026-03-08T13:05:43.806524"
+  },
+  {
+    "resource_id": "i-35b3c4857d",
+    "resource_type": "EC2",
+    "instance_type": "m5.2xlarge",
+    "region": "us-east-1",
+    "state": "running",
+    "cpu_avg_percent": 46.73,
+    "running_hours_30d": 523,
+    "hourly_cost_usd": 0.384,
+    "monthly_cost_usd": 200.83,
+    "has_purpose_tag": true,
+    "last_seen": "2026-03-08T13:05:43.806558",
+    "scan_timestamp": "2026-03-08T13:05:43.806564"
+  },
+  {
+    "resource_id": "i-5fd10eac5e",
+    "resource_type": "EC2",
+    "instance_type": "t3.small",
+    "region": "us-west-2",
+    "state": "running",
+    "cpu_avg_percent": 1.54,
+    "running_hours_30d": 238,
+    "hourly_cost_usd": 0.0208,
+    "monthly_cost_usd": 4.95,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-27T13:05:43.806605",
+    "scan_timestamp": "2026-03-08T13:05:43.806613"
+  },
+  {
+    "resource_id": "i-b052f1725a",
+    "resource_type": "EC2",
+    "instance_type": "m5.xlarge",
+    "region": "ap-southeast-1",
+    "state": "running",
+    "cpu_avg_percent": 35.2,
+    "running_hours_30d": 298,
+    "hourly_cost_usd": 0.192,
+    "monthly_cost_usd": 57.22,
+    "has_purpose_tag": false,
+    "last_seen": "2026-01-05T13:05:43.806632",
+    "scan_timestamp": "2026-03-08T13:05:43.806634"
+  },
+  {
+    "resource_id": "i-0eb9bbd4b0",
+    "resource_type": "EC2",
+    "instance_type": "r5.large",
+    "region": "ap-southeast-1",
+    "state": "stopped",
+    "cpu_avg_percent": 36.17,
+    "running_hours_30d": 611,
+    "hourly_cost_usd": 0.126,
+    "monthly_cost_usd": 76.99,
+    "has_purpose_tag": false,
+    "last_seen": "2026-02-01T13:05:43.806648",
+    "scan_timestamp": "2026-03-08T13:05:43.806650"
+  },
+  {
+    "resource_id": "i-9df6785f27",
+    "resource_type": "EC2",
+    "instance_type": "m5.xlarge",
+    "region": "ap-southeast-1",
+    "state": "running",
+    "cpu_avg_percent": 38.4,
+    "running_hours_30d": 316,
+    "hourly_cost_usd": 0.192,
+    "monthly_cost_usd": 60.67,
+    "has_purpose_tag": false,
+    "last_seen": "2026-01-21T13:05:43.806661",
+    "scan_timestamp": "2026-03-08T13:05:43.806664"
+  },
+  {
+    "resource_id": "i-6fd1fe1e42",
+    "resource_type": "EC2",
+    "instance_type": "t3.micro",
+    "region": "us-east-1",
+    "state": "running",
+    "cpu_avg_percent": 47.48,
+    "running_hours_30d": 124,
+    "hourly_cost_usd": 0.0104,
+    "monthly_cost_usd": 1.29,
+    "has_purpose_tag": true,
+    "last_seen": "2026-02-10T13:05:43.806676",
+    "scan_timestamp": "2026-03-08T13:05:43.806678"
+  },
+  {
+    "resource_id": "i-1f41352179",
+    "resource_type": "EC2",
+    "instance_type": "c5.xlarge",
+    "region": "eu-west-1",
+    "state": "running",
+    "cpu_avg_percent": 69.56,
+    "running_hours_30d": 329,
+    "hourly_cost_usd": 0.17,
+    "monthly_cost_usd": 55.93,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-23T13:05:43.806690",
+    "scan_timestamp": "2026-03-08T13:05:43.806692"
+  },
+  {
+    "resource_id": "i-d356117a70",
+    "resource_type": "EC2",
+    "instance_type": "r5.large",
+    "region": "us-west-2",
+    "state": "running",
+    "cpu_avg_percent": 33.94,
+    "running_hours_30d": 557,
+    "hourly_cost_usd": 0.126,
+    "monthly_cost_usd": 70.18,
+    "has_purpose_tag": true,
+    "last_seen": "2026-01-24T13:05:43.806704",
+    "scan_timestamp": "2026-03-08T13:05:43.806705"
+  },
+  {
+    "resource_id": "s3-against-about-early-145",
+    "resource_type": "S3",
+    "region": "us-east-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": true,
+    "size_gb": 2100.57,
+    "object_count": 739494,
+    "last_accessed": "2026-03-06T13:05:43.806764",
+    "scan_timestamp": "2026-03-08T13:05:43.806767"
+  },
+  {
+    "resource_id": "s3-early-blue-985",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": false,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": true,
+    "size_gb": 4735.66,
+    "object_count": 284538,
+    "last_accessed": "2026-01-18T13:05:43.806784",
+    "scan_timestamp": "2026-03-08T13:05:43.806786"
+  },
+  {
+    "resource_id": "s3-with-act-eight-try-210",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": true,
+    "logging_enabled": true,
+    "size_gb": 4080.75,
+    "object_count": 488373,
+    "last_accessed": "2025-09-14T13:05:43.806800",
+    "scan_timestamp": "2026-03-08T13:05:43.806802"
+  },
+  {
+    "resource_id": "s3-wind-traditional-277",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": false,
+    "versioning_enabled": false,
+    "logging_enabled": false,
+    "size_gb": 3990.17,
+    "object_count": 140874,
+    "last_accessed": "2026-01-27T13:05:43.806812",
+    "scan_timestamp": "2026-03-08T13:05:43.806814"
+  },
+  {
+    "resource_id": "s3-career-language-559",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": false,
+    "encryption_enabled": true,
+    "versioning_enabled": true,
+    "logging_enabled": false,
+    "size_gb": 4323.35,
+    "object_count": 702193,
+    "last_accessed": "2026-01-05T13:05:43.806824",
+    "scan_timestamp": "2026-03-08T13:05:43.806826"
+  },
+  {
+    "resource_id": "s3-conference-mention-319",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": true,
+    "logging_enabled": true,
+    "size_gb": 2947.47,
+    "object_count": 162554,
+    "last_accessed": "2025-09-13T13:05:43.806835",
+    "scan_timestamp": "2026-03-08T13:05:43.806837"
+  },
+  {
+    "resource_id": "s3-seven-usually-wall-515",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": true,
+    "size_gb": 496.5,
+    "object_count": 104099,
+    "last_accessed": "2025-11-24T13:05:43.806848",
+    "scan_timestamp": "2026-03-08T13:05:43.806849"
+  },
+  {
+    "resource_id": "s3-guy-shake-day-do-404",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": false,
+    "encryption_enabled": false,
+    "versioning_enabled": false,
+    "logging_enabled": true,
+    "size_gb": 1910.01,
+    "object_count": 86911,
+    "last_accessed": "2026-01-15T13:05:43.806860",
+    "scan_timestamp": "2026-03-08T13:05:43.806862"
+  },
+  {
+    "resource_id": "s3-three-event-rich-792",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": true,
+    "logging_enabled": true,
+    "size_gb": 2798.69,
+    "object_count": 156930,
+    "last_accessed": "2025-10-04T13:05:43.806872",
+    "scan_timestamp": "2026-03-08T13:05:43.806874"
+  },
+  {
+    "resource_id": "s3-bag-guy-happy-892",
+    "resource_type": "S3",
+    "region": "us-east-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": true,
+    "logging_enabled": true,
+    "size_gb": 2659.91,
+    "object_count": 47569,
+    "last_accessed": "2025-12-25T13:05:43.806884",
+    "scan_timestamp": "2026-03-08T13:05:43.806886"
+  },
+  {
+    "resource_id": "s3-take-discussion-626",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": false,
+    "encryption_enabled": false,
+    "versioning_enabled": true,
+    "logging_enabled": false,
+    "size_gb": 539.86,
+    "object_count": 588707,
+    "last_accessed": "2026-02-03T13:05:43.806894",
+    "scan_timestamp": "2026-03-08T13:05:43.806896"
+  },
+  {
+    "resource_id": "s3-treat-around-722",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": true,
+    "size_gb": 4603.5,
+    "object_count": 13726,
+    "last_accessed": "2025-09-13T13:05:43.806905",
+    "scan_timestamp": "2026-03-08T13:05:43.806906"
+  },
+  {
+    "resource_id": "s3-west-me-key-build-826",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": false,
+    "size_gb": 2286.67,
+    "object_count": 890278,
+    "last_accessed": "2026-01-08T13:05:43.806917",
+    "scan_timestamp": "2026-03-08T13:05:43.806919"
+  },
+  {
+    "resource_id": "s3-take-itself-least-529",
+    "resource_type": "S3",
+    "region": "us-east-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": true,
+    "logging_enabled": true,
+    "size_gb": 3274.0,
+    "object_count": 624592,
+    "last_accessed": "2026-02-22T13:05:43.806929",
+    "scan_timestamp": "2026-03-08T13:05:43.806930"
+  },
+  {
+    "resource_id": "s3-gas-style-home-here-518",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": true,
+    "logging_enabled": true,
+    "size_gb": 790.97,
+    "object_count": 295931,
+    "last_accessed": "2026-02-04T13:05:43.806941",
+    "scan_timestamp": "2026-03-08T13:05:43.806943"
+  },
+  {
+    "resource_id": "s3-office-way-parent-728",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": false,
+    "size_gb": 3731.82,
+    "object_count": 978581,
+    "last_accessed": "2026-01-21T13:05:43.806953",
+    "scan_timestamp": "2026-03-08T13:05:43.806954"
+  },
+  {
+    "resource_id": "s3-name-actually-head-167",
+    "resource_type": "S3",
+    "region": "us-east-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": true,
+    "logging_enabled": true,
+    "size_gb": 1075.9,
+    "object_count": 129535,
+    "last_accessed": "2026-03-06T13:05:43.806964",
+    "scan_timestamp": "2026-03-08T13:05:43.806966"
+  },
+  {
+    "resource_id": "s3-you-politics-bring-147",
+    "resource_type": "S3",
+    "region": "us-east-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": true,
+    "logging_enabled": true,
+    "size_gb": 490.02,
+    "object_count": 658286,
+    "last_accessed": "2025-09-19T13:05:43.806975",
+    "scan_timestamp": "2026-03-08T13:05:43.806977"
+  },
+  {
+    "resource_id": "s3-reveal-low-never-720",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": false,
+    "size_gb": 4850.67,
+    "object_count": 597430,
+    "last_accessed": "2025-11-18T13:05:43.806986",
+    "scan_timestamp": "2026-03-08T13:05:43.806988"
+  },
+  {
+    "resource_id": "s3-boy-their-accept-500",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": true,
+    "size_gb": 816.58,
+    "object_count": 535552,
+    "last_accessed": "2026-01-07T13:05:43.806997",
+    "scan_timestamp": "2026-03-08T13:05:43.806999"
+  },
+  {
+    "resource_id": "s3-pattern-social-one-418",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": false,
+    "size_gb": 3789.43,
+    "object_count": 580261,
+    "last_accessed": "2025-12-01T13:05:43.807009",
+    "scan_timestamp": "2026-03-08T13:05:43.807011"
+  },
+  {
+    "resource_id": "s3-plant-low-project-795",
+    "resource_type": "S3",
+    "region": "us-east-1",
+    "public_access_blocked": false,
+    "encryption_enabled": true,
+    "versioning_enabled": true,
+    "logging_enabled": false,
+    "size_gb": 4883.77,
+    "object_count": 150648,
+    "last_accessed": "2025-11-12T13:05:43.807020",
+    "scan_timestamp": "2026-03-08T13:05:43.807022"
+  },
+  {
+    "resource_id": "s3-force-woman-power-194",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": true,
+    "logging_enabled": true,
+    "size_gb": 4091.78,
+    "object_count": 529329,
+    "last_accessed": "2026-01-19T13:05:43.807031",
+    "scan_timestamp": "2026-03-08T13:05:43.807033"
+  },
+  {
+    "resource_id": "s3-cover-thus-lawyer-366",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": true,
+    "logging_enabled": false,
+    "size_gb": 1471.95,
+    "object_count": 260477,
+    "last_accessed": "2025-09-17T13:05:43.807042",
+    "scan_timestamp": "2026-03-08T13:05:43.807044"
+  },
+  {
+    "resource_id": "s3-strategy-law-since-218",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": true,
+    "size_gb": 2105.66,
+    "object_count": 294249,
+    "last_accessed": "2026-02-03T13:05:43.807053",
+    "scan_timestamp": "2026-03-08T13:05:43.807055"
+  },
+  {
+    "resource_id": "s3-loss-wish-reach-648",
+    "resource_type": "S3",
+    "region": "us-east-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": true,
+    "logging_enabled": false,
+    "size_gb": 3848.42,
+    "object_count": 504589,
+    "last_accessed": "2026-02-12T13:05:43.807065",
+    "scan_timestamp": "2026-03-08T13:05:43.807066"
+  },
+  {
+    "resource_id": "s3-case-machine-395",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": true,
+    "encryption_enabled": false,
+    "versioning_enabled": true,
+    "logging_enabled": false,
+    "size_gb": 4479.03,
+    "object_count": 431799,
+    "last_accessed": "2025-11-13T13:05:43.807075",
+    "scan_timestamp": "2026-03-08T13:05:43.807077"
+  },
+  {
+    "resource_id": "s3-lead-agree-soldier-458",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": false,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": false,
+    "size_gb": 375.74,
+    "object_count": 312591,
+    "last_accessed": "2025-12-27T13:05:43.807086",
+    "scan_timestamp": "2026-03-08T13:05:43.807087"
+  },
+  {
+    "resource_id": "s3-situation-security-483",
+    "resource_type": "S3",
+    "region": "us-east-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": false,
+    "size_gb": 788.7,
+    "object_count": 213806,
+    "last_accessed": "2026-03-06T13:05:43.807096",
+    "scan_timestamp": "2026-03-08T13:05:43.807098"
+  },
+  {
+    "resource_id": "s3-be-one-bit-our-war-198",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": true,
+    "size_gb": 4021.91,
+    "object_count": 685769,
+    "last_accessed": "2026-01-14T13:05:43.807109",
+    "scan_timestamp": "2026-03-08T13:05:43.807111"
+  },
+  {
+    "resource_id": "s3-choose-sister-where-223",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": false,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": false,
+    "size_gb": 3774.77,
+    "object_count": 275119,
+    "last_accessed": "2026-02-14T13:05:43.807121",
+    "scan_timestamp": "2026-03-08T13:05:43.807123"
+  },
+  {
+    "resource_id": "s3-right-need-source-399",
+    "resource_type": "S3",
+    "region": "us-east-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": true,
+    "size_gb": 1115.91,
+    "object_count": 295695,
+    "last_accessed": "2026-02-20T13:05:43.807132",
+    "scan_timestamp": "2026-03-08T13:05:43.807133"
+  },
+  {
+    "resource_id": "s3-five-these-child-741",
+    "resource_type": "S3",
+    "region": "us-east-1",
+    "public_access_blocked": false,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": false,
+    "size_gb": 1406.19,
+    "object_count": 555464,
+    "last_accessed": "2025-12-27T13:05:43.807142",
+    "scan_timestamp": "2026-03-08T13:05:43.807144"
+  },
+  {
+    "resource_id": "s3-nor-test-front-face-930",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": true,
+    "logging_enabled": true,
+    "size_gb": 2789.84,
+    "object_count": 396984,
+    "last_accessed": "2025-12-11T13:05:43.807155",
+    "scan_timestamp": "2026-03-08T13:05:43.807157"
+  },
+  {
+    "resource_id": "s3-recognize-parent-914",
+    "resource_type": "S3",
+    "region": "us-east-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": false,
+    "size_gb": 1639.43,
+    "object_count": 307742,
+    "last_accessed": "2025-09-21T13:05:43.807166",
+    "scan_timestamp": "2026-03-08T13:05:43.807167"
+  },
+  {
+    "resource_id": "s3-subject-standard-407",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": true,
+    "size_gb": 2712.94,
+    "object_count": 879937,
+    "last_accessed": "2025-11-08T13:05:43.807176",
+    "scan_timestamp": "2026-03-08T13:05:43.807177"
+  },
+  {
+    "resource_id": "s3-street-response-593",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": false,
+    "encryption_enabled": false,
+    "versioning_enabled": true,
+    "logging_enabled": false,
+    "size_gb": 1932.29,
+    "object_count": 908733,
+    "last_accessed": "2025-09-24T13:05:43.807186",
+    "scan_timestamp": "2026-03-08T13:05:43.807188"
+  },
+  {
+    "resource_id": "s3-understand-american-381",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": true,
+    "logging_enabled": true,
+    "size_gb": 840.88,
+    "object_count": 942164,
+    "last_accessed": "2026-02-14T13:05:43.807196",
+    "scan_timestamp": "2026-03-08T13:05:43.807198"
+  },
+  {
+    "resource_id": "s3-particular-attorney-914",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": false,
+    "size_gb": 838.22,
+    "object_count": 444056,
+    "last_accessed": "2026-02-16T13:05:43.807206",
+    "scan_timestamp": "2026-03-08T13:05:43.807207"
+  },
+  {
+    "resource_id": "s3-choose-product-bill-787",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": true,
+    "size_gb": 3930.44,
+    "object_count": 223155,
+    "last_accessed": "2026-01-30T13:05:43.807217",
+    "scan_timestamp": "2026-03-08T13:05:43.807218"
+  },
+  {
+    "resource_id": "s3-tonight-714",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": true,
+    "logging_enabled": true,
+    "size_gb": 1464.26,
+    "object_count": 466607,
+    "last_accessed": "2025-11-17T13:05:43.807226",
+    "scan_timestamp": "2026-03-08T13:05:43.807228"
+  },
+  {
+    "resource_id": "s3-bad-camera-economy-482",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": false,
+    "versioning_enabled": false,
+    "logging_enabled": true,
+    "size_gb": 912.88,
+    "object_count": 49315,
+    "last_accessed": "2026-01-08T13:05:43.807238",
+    "scan_timestamp": "2026-03-08T13:05:43.807240"
+  },
+  {
+    "resource_id": "s3-nearly-movie-703",
+    "resource_type": "S3",
+    "region": "us-east-1",
+    "public_access_blocked": false,
+    "encryption_enabled": true,
+    "versioning_enabled": true,
+    "logging_enabled": false,
+    "size_gb": 1844.67,
+    "object_count": 746853,
+    "last_accessed": "2026-01-24T13:05:43.807248",
+    "scan_timestamp": "2026-03-08T13:05:43.807249"
+  },
+  {
+    "resource_id": "s3-people-note-defense-238",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": true,
+    "size_gb": 365.91,
+    "object_count": 309177,
+    "last_accessed": "2025-12-22T13:05:43.807259",
+    "scan_timestamp": "2026-03-08T13:05:43.807261"
+  },
+  {
+    "resource_id": "s3-bank-oil-benefit-365",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": true,
+    "size_gb": 517.59,
+    "object_count": 992350,
+    "last_accessed": "2026-02-06T13:05:43.807271",
+    "scan_timestamp": "2026-03-08T13:05:43.807273"
+  },
+  {
+    "resource_id": "s3-medical-product-299",
+    "resource_type": "S3",
+    "region": "us-east-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": true,
+    "size_gb": 4784.15,
+    "object_count": 1157,
+    "last_accessed": "2025-11-27T13:05:43.807281",
+    "scan_timestamp": "2026-03-08T13:05:43.807283"
+  },
+  {
+    "resource_id": "s3-despite-hot-across-178",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": false,
+    "encryption_enabled": false,
+    "versioning_enabled": false,
+    "logging_enabled": false,
+    "size_gb": 2491.04,
+    "object_count": 560398,
+    "last_accessed": "2025-12-26T13:05:43.807293",
+    "scan_timestamp": "2026-03-08T13:05:43.807295"
+  },
+  {
+    "resource_id": "s3-operation-move-307",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": false,
+    "encryption_enabled": false,
+    "versioning_enabled": true,
+    "logging_enabled": true,
+    "size_gb": 3732.5,
+    "object_count": 112223,
+    "last_accessed": "2025-11-19T13:05:43.807305",
+    "scan_timestamp": "2026-03-08T13:05:43.807307"
+  },
+  {
+    "resource_id": "s3-indicate-order-475",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": true,
+    "size_gb": 3581.74,
+    "object_count": 921849,
+    "last_accessed": "2025-12-02T13:05:43.807316",
+    "scan_timestamp": "2026-03-08T13:05:43.807318"
+  },
+  {
+    "resource_id": "s3-politics-pm-service-924",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": true,
+    "size_gb": 2107.86,
+    "object_count": 305892,
+    "last_accessed": "2026-01-11T13:05:43.807327",
+    "scan_timestamp": "2026-03-08T13:05:43.807329"
+  },
+  {
+    "resource_id": "s3-write-study-listen-559",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": false,
+    "encryption_enabled": false,
+    "versioning_enabled": true,
+    "logging_enabled": true,
+    "size_gb": 2097.47,
+    "object_count": 178273,
+    "last_accessed": "2025-10-02T13:05:43.807339",
+    "scan_timestamp": "2026-03-08T13:05:43.807340"
+  },
+  {
+    "resource_id": "s3-score-notice-now-502",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": true,
+    "size_gb": 1644.37,
+    "object_count": 582502,
+    "last_accessed": "2025-11-14T13:05:43.807349",
+    "scan_timestamp": "2026-03-08T13:05:43.807351"
+  },
+  {
+    "resource_id": "s3-such-could-energy-212",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": false,
+    "encryption_enabled": false,
+    "versioning_enabled": true,
+    "logging_enabled": false,
+    "size_gb": 3520.91,
+    "object_count": 399290,
+    "last_accessed": "2025-11-10T13:05:43.807360",
+    "scan_timestamp": "2026-03-08T13:05:43.807366"
+  },
+  {
+    "resource_id": "s3-support-defense-928",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": true,
+    "logging_enabled": true,
+    "size_gb": 3639.85,
+    "object_count": 978137,
+    "last_accessed": "2026-01-18T13:05:43.807375",
+    "scan_timestamp": "2026-03-08T13:05:43.807377"
+  },
+  {
+    "resource_id": "s3-all-reality-fact-792",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": false,
+    "versioning_enabled": true,
+    "logging_enabled": true,
+    "size_gb": 57.92,
+    "object_count": 440424,
+    "last_accessed": "2025-10-31T13:05:43.807386",
+    "scan_timestamp": "2026-03-08T13:05:43.807388"
+  },
+  {
+    "resource_id": "s3-every-leave-rich-321",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": false,
+    "versioning_enabled": true,
+    "logging_enabled": false,
+    "size_gb": 216.88,
+    "object_count": 650801,
+    "last_accessed": "2025-10-13T13:05:43.807397",
+    "scan_timestamp": "2026-03-08T13:05:43.807399"
+  },
+  {
+    "resource_id": "s3-likely-base-mean-431",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": false,
+    "versioning_enabled": true,
+    "logging_enabled": true,
+    "size_gb": 2791.84,
+    "object_count": 166871,
+    "last_accessed": "2025-09-23T13:05:43.807408",
+    "scan_timestamp": "2026-03-08T13:05:43.807410"
+  },
+  {
+    "resource_id": "s3-art-bad-difficult-727",
+    "resource_type": "S3",
+    "region": "us-east-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": false,
+    "size_gb": 473.6,
+    "object_count": 965695,
+    "last_accessed": "2025-11-19T13:05:43.807420",
+    "scan_timestamp": "2026-03-08T13:05:43.807422"
+  },
+  {
+    "resource_id": "s3-real-option-letter-354",
+    "resource_type": "S3",
+    "region": "us-west-2",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": false,
+    "logging_enabled": true,
+    "size_gb": 703.43,
+    "object_count": 628600,
+    "last_accessed": "2026-03-01T13:05:43.807431",
+    "scan_timestamp": "2026-03-08T13:05:43.807433"
+  },
+  {
+    "resource_id": "s3-then-around-produce-423",
+    "resource_type": "S3",
+    "region": "eu-west-1",
+    "public_access_blocked": true,
+    "encryption_enabled": true,
+    "versioning_enabled": true,
+    "logging_enabled": true,
+    "size_gb": 1823.77,
+    "object_count": 522332,
+    "last_accessed": "2026-01-17T13:05:43.807442",
+    "scan_timestamp": "2026-03-08T13:05:43.807444"
+  },
+  {
+    "resource_id": "iam-lwallace-241",
+    "resource_type": "IAM_USER",
+    "username": "zjennings",
+    "mfa_enabled": false,
+    "days_since_last_login": 108,
+    "is_inactive": true,
+    "access_key_age_days": 142,
+    "has_admin_policy": false,
+    "policy_count": 8,
+    "last_seen": "2026-02-24T13:05:43.807676",
+    "scan_timestamp": "2026-03-08T13:05:43.807680"
+  },
+  {
+    "resource_id": "iam-tinasherman-769",
+    "resource_type": "IAM_USER",
+    "username": "alvaradojennifer",
+    "mfa_enabled": true,
+    "days_since_last_login": 335,
+    "is_inactive": true,
+    "access_key_age_days": 1,
+    "has_admin_policy": false,
+    "policy_count": 1,
+    "last_seen": "2026-02-23T13:05:43.807990",
+    "scan_timestamp": "2026-03-08T13:05:43.807993"
+  },
+  {
+    "resource_id": "iam-pamelaortiz-661",
+    "resource_type": "IAM_USER",
+    "username": "ndominguez",
+    "mfa_enabled": true,
+    "days_since_last_login": 121,
+    "is_inactive": true,
+    "access_key_age_days": 149,
+    "has_admin_policy": false,
+    "policy_count": 1,
+    "last_seen": "2026-01-24T13:05:43.808209",
+    "scan_timestamp": "2026-03-08T13:05:43.808220"
+  },
+  {
+    "resource_id": "iam-howardjulie-511",
+    "resource_type": "IAM_USER",
+    "username": "benjamin02",
+    "mfa_enabled": false,
+    "days_since_last_login": 33,
+    "is_inactive": false,
+    "access_key_age_days": 316,
+    "has_admin_policy": true,
+    "policy_count": 6,
+    "last_seen": "2026-02-10T13:05:43.808646",
+    "scan_timestamp": "2026-03-08T13:05:43.808654"
+  },
+  {
+    "resource_id": "iam-holtashley-288",
+    "resource_type": "IAM_USER",
+    "username": "jimmymendez",
+    "mfa_enabled": true,
+    "days_since_last_login": 102,
+    "is_inactive": true,
+    "access_key_age_days": 44,
+    "has_admin_policy": true,
+    "policy_count": 4,
+    "last_seen": "2025-12-12T13:05:43.809118",
+    "scan_timestamp": "2026-03-08T13:05:43.809122"
+  },
+  {
+    "resource_id": "iam-lisacox-856",
+    "resource_type": "IAM_USER",
+    "username": "mckenzie22",
+    "mfa_enabled": true,
+    "days_since_last_login": 243,
+    "is_inactive": true,
+    "access_key_age_days": 123,
+    "has_admin_policy": false,
+    "policy_count": 2,
+    "last_seen": "2025-12-28T13:05:43.809251",
+    "scan_timestamp": "2026-03-08T13:05:43.809253"
+  },
+  {
+    "resource_id": "iam-vmiller-376",
+    "resource_type": "IAM_USER",
+    "username": "rfrazier",
+    "mfa_enabled": false,
+    "days_since_last_login": 117,
+    "is_inactive": true,
+    "access_key_age_days": 289,
+    "has_admin_policy": false,
+    "policy_count": 8,
+    "last_seen": "2026-01-30T13:05:43.809359",
+    "scan_timestamp": "2026-03-08T13:05:43.809361"
+  },
+  {
+    "resource_id": "iam-allison81-719",
+    "resource_type": "IAM_USER",
+    "username": "yherring",
+    "mfa_enabled": true,
+    "days_since_last_login": 0,
+    "is_inactive": false,
+    "access_key_age_days": 87,
+    "has_admin_policy": false,
+    "policy_count": 1,
+    "last_seen": "2025-12-18T13:05:43.809451",
+    "scan_timestamp": "2026-03-08T13:05:43.809454"
+  },
+  {
+    "resource_id": "iam-albert40-458",
+    "resource_type": "IAM_USER",
+    "username": "christopher86",
+    "mfa_enabled": true,
+    "days_since_last_login": 311,
+    "is_inactive": true,
+    "access_key_age_days": 303,
+    "has_admin_policy": false,
+    "policy_count": 8,
+    "last_seen": "2025-12-13T13:05:43.809529",
+    "scan_timestamp": "2026-03-08T13:05:43.809531"
+  },
+  {
+    "resource_id": "iam-ashleykimberly-598",
+    "resource_type": "IAM_USER",
+    "username": "snewman",
+    "mfa_enabled": false,
+    "days_since_last_login": 117,
+    "is_inactive": true,
+    "access_key_age_days": 227,
+    "has_admin_policy": false,
+    "policy_count": 2,
+    "last_seen": "2026-01-16T13:05:43.809666",
+    "scan_timestamp": "2026-03-08T13:05:43.809668"
+  },
+  {
+    "resource_id": "iam-philip43-950",
+    "resource_type": "IAM_USER",
+    "username": "charles58",
+    "mfa_enabled": true,
+    "days_since_last_login": 103,
+    "is_inactive": true,
+    "access_key_age_days": 342,
+    "has_admin_policy": false,
+    "policy_count": 7,
+    "last_seen": "2026-01-22T13:05:43.809744",
+    "scan_timestamp": "2026-03-08T13:05:43.809746"
+  },
+  {
+    "resource_id": "iam-hilldebra-158",
+    "resource_type": "IAM_USER",
+    "username": "wellsmichael",
+    "mfa_enabled": true,
+    "days_since_last_login": 24,
+    "is_inactive": false,
+    "access_key_age_days": 315,
+    "has_admin_policy": true,
+    "policy_count": 5,
+    "last_seen": "2026-02-16T13:05:43.809913",
+    "scan_timestamp": "2026-03-08T13:05:43.809916"
+  },
+  {
+    "resource_id": "iam-millerdanny-799",
+    "resource_type": "IAM_USER",
+    "username": "arnoldtammy",
+    "mfa_enabled": true,
+    "days_since_last_login": 296,
+    "is_inactive": true,
+    "access_key_age_days": 382,
+    "has_admin_policy": false,
+    "policy_count": 3,
+    "last_seen": "2025-12-08T13:05:43.810077",
+    "scan_timestamp": "2026-03-08T13:05:43.810079"
+  },
+  {
+    "resource_id": "iam-yhowell-818",
+    "resource_type": "IAM_USER",
+    "username": "hollywilliams",
+    "mfa_enabled": false,
+    "days_since_last_login": 218,
+    "is_inactive": true,
+    "access_key_age_days": 171,
+    "has_admin_policy": false,
+    "policy_count": 1,
+    "last_seen": "2026-01-09T13:05:43.810211",
+    "scan_timestamp": "2026-03-08T13:05:43.810213"
+  },
+  {
+    "resource_id": "iam-vhunt-956",
+    "resource_type": "IAM_USER",
+    "username": "jose02",
+    "mfa_enabled": true,
+    "days_since_last_login": 259,
+    "is_inactive": true,
+    "access_key_age_days": 5,
+    "has_admin_policy": false,
+    "policy_count": 4,
+    "last_seen": "2026-01-11T13:05:43.810302",
+    "scan_timestamp": "2026-03-08T13:05:43.810304"
+  },
+  {
+    "resource_id": "iam-kylesanchez-721",
+    "resource_type": "IAM_USER",
+    "username": "colemanrichard",
+    "mfa_enabled": true,
+    "days_since_last_login": 270,
+    "is_inactive": true,
+    "access_key_age_days": 370,
+    "has_admin_policy": true,
+    "policy_count": 6,
+    "last_seen": "2026-03-02T13:05:43.810465",
+    "scan_timestamp": "2026-03-08T13:05:43.810467"
+  },
+  {
+    "resource_id": "iam-elliottashley-214",
+    "resource_type": "IAM_USER",
+    "username": "mbecker",
+    "mfa_enabled": false,
+    "days_since_last_login": 81,
+    "is_inactive": false,
+    "access_key_age_days": 62,
+    "has_admin_policy": true,
+    "policy_count": 7,
+    "last_seen": "2026-01-23T13:05:43.810598",
+    "scan_timestamp": "2026-03-08T13:05:43.810600"
+  },
+  {
+    "resource_id": "iam-tmartin-580",
+    "resource_type": "IAM_USER",
+    "username": "kevin52",
+    "mfa_enabled": false,
+    "days_since_last_login": 15,
+    "is_inactive": false,
+    "access_key_age_days": 301,
+    "has_admin_policy": false,
+    "policy_count": 4,
+    "last_seen": "2026-02-12T13:05:43.810688",
+    "scan_timestamp": "2026-03-08T13:05:43.810690"
+  },
+  {
+    "resource_id": "iam-greenclaire-324",
+    "resource_type": "IAM_USER",
+    "username": "shanepham",
+    "mfa_enabled": false,
+    "days_since_last_login": 112,
+    "is_inactive": true,
+    "access_key_age_days": 301,
+    "has_admin_policy": false,
+    "policy_count": 1,
+    "last_seen": "2025-12-19T13:05:43.811881",
+    "scan_timestamp": "2026-03-08T13:05:43.811906"
+  },
+  {
+    "resource_id": "iam-thomasfrank-179",
+    "resource_type": "IAM_USER",
+    "username": "alee",
+    "mfa_enabled": false,
+    "days_since_last_login": 246,
+    "is_inactive": true,
+    "access_key_age_days": 250,
+    "has_admin_policy": false,
+    "policy_count": 7,
+    "last_seen": "2025-12-19T13:05:43.812313",
+    "scan_timestamp": "2026-03-08T13:05:43.812323"
+  },
+  {
+    "resource_id": "iam-tconway-621",
+    "resource_type": "IAM_USER",
+    "username": "nelsondaniel",
+    "mfa_enabled": true,
+    "days_since_last_login": 137,
+    "is_inactive": true,
+    "access_key_age_days": 323,
+    "has_admin_policy": false,
+    "policy_count": 8,
+    "last_seen": "2026-03-06T13:05:43.812723",
+    "scan_timestamp": "2026-03-08T13:05:43.812731"
+  },
+  {
+    "resource_id": "iam-lcollins-497",
+    "resource_type": "IAM_USER",
+    "username": "angelachandler",
+    "mfa_enabled": true,
+    "days_since_last_login": 220,
+    "is_inactive": true,
+    "access_key_age_days": 34,
+    "has_admin_policy": true,
+    "policy_count": 4,
+    "last_seen": "2026-02-11T13:05:43.813158",
+    "scan_timestamp": "2026-03-08T13:05:43.813169"
+  },
+  {
+    "resource_id": "iam-jesus09-524",
+    "resource_type": "IAM_USER",
+    "username": "luisedwards",
+    "mfa_enabled": true,
+    "days_since_last_login": 229,
+    "is_inactive": true,
+    "access_key_age_days": 400,
+    "has_admin_policy": false,
+    "policy_count": 2,
+    "last_seen": "2026-01-18T13:05:43.813915",
+    "scan_timestamp": "2026-03-08T13:05:43.813923"
+  },
+  {
+    "resource_id": "iam-jasondonovan-122",
+    "resource_type": "IAM_USER",
+    "username": "lweiss",
+    "mfa_enabled": true,
+    "days_since_last_login": 63,
+    "is_inactive": false,
+    "access_key_age_days": 61,
+    "has_admin_policy": false,
+    "policy_count": 8,
+    "last_seen": "2026-01-21T13:05:43.814276",
+    "scan_timestamp": "2026-03-08T13:05:43.814279"
+  },
+  {
+    "resource_id": "iam-tanya79-551",
+    "resource_type": "IAM_USER",
+    "username": "achavez",
+    "mfa_enabled": true,
+    "days_since_last_login": 282,
+    "is_inactive": true,
+    "access_key_age_days": 261,
+    "has_admin_policy": false,
+    "policy_count": 5,
+    "last_seen": "2025-12-16T13:05:43.814376",
+    "scan_timestamp": "2026-03-08T13:05:43.814378"
+  },
+  {
+    "resource_id": "iam-pricerobert-930",
+    "resource_type": "IAM_USER",
+    "username": "zjohnson",
+    "mfa_enabled": false,
+    "days_since_last_login": 282,
+    "is_inactive": true,
+    "access_key_age_days": 36,
+    "has_admin_policy": false,
+    "policy_count": 6,
+    "last_seen": "2026-01-03T13:05:43.814515",
+    "scan_timestamp": "2026-03-08T13:05:43.814517"
+  },
+  {
+    "resource_id": "iam-owatson-738",
+    "resource_type": "IAM_USER",
+    "username": "jefferymcbride",
+    "mfa_enabled": false,
+    "days_since_last_login": 194,
+    "is_inactive": true,
+    "access_key_age_days": 124,
+    "has_admin_policy": false,
+    "policy_count": 4,
+    "last_seen": "2025-12-10T13:05:43.814651",
+    "scan_timestamp": "2026-03-08T13:05:43.814653"
+  },
+  {
+    "resource_id": "iam-kristen58-480",
+    "resource_type": "IAM_USER",
+    "username": "carteralexander",
+    "mfa_enabled": true,
+    "days_since_last_login": 340,
+    "is_inactive": true,
+    "access_key_age_days": 347,
+    "has_admin_policy": false,
+    "policy_count": 5,
+    "last_seen": "2025-12-22T13:05:43.814797",
+    "scan_timestamp": "2026-03-08T13:05:43.814812"
+  },
+  {
+    "resource_id": "iam-avilajoseph-536",
+    "resource_type": "IAM_USER",
+    "username": "cartertracey",
+    "mfa_enabled": false,
+    "days_since_last_login": 306,
+    "is_inactive": true,
+    "access_key_age_days": 252,
+    "has_admin_policy": true,
+    "policy_count": 1,
+    "last_seen": "2026-02-28T13:05:43.815824",
+    "scan_timestamp": "2026-03-08T13:05:43.815828"
+  },
+  {
+    "resource_id": "iam-barrettsteven-968",
+    "resource_type": "IAM_USER",
+    "username": "cochranjames",
+    "mfa_enabled": true,
+    "days_since_last_login": 195,
+    "is_inactive": true,
+    "access_key_age_days": 110,
+    "has_admin_policy": false,
+    "policy_count": 7,
+    "last_seen": "2026-02-16T13:05:43.815994",
+    "scan_timestamp": "2026-03-08T13:05:43.815997"
+  },
+  {
+    "resource_id": "iam-millsderek-383",
+    "resource_type": "IAM_USER",
+    "username": "yjones",
+    "mfa_enabled": false,
+    "days_since_last_login": 126,
+    "is_inactive": true,
+    "access_key_age_days": 155,
+    "has_admin_policy": false,
+    "policy_count": 6,
+    "last_seen": "2026-02-25T13:05:43.816131",
+    "scan_timestamp": "2026-03-08T13:05:43.816133"
+  },
+  {
+    "resource_id": "iam-leslie80-839",
+    "resource_type": "IAM_USER",
+    "username": "melaniemolina",
+    "mfa_enabled": true,
+    "days_since_last_login": 47,
+    "is_inactive": false,
+    "access_key_age_days": 12,
+    "has_admin_policy": false,
+    "policy_count": 5,
+    "last_seen": "2026-02-05T13:05:43.816254",
+    "scan_timestamp": "2026-03-08T13:05:43.816256"
+  },
+  {
+    "resource_id": "iam-cookleah-388",
+    "resource_type": "IAM_USER",
+    "username": "veronicadrake",
+    "mfa_enabled": false,
+    "days_since_last_login": 270,
+    "is_inactive": true,
+    "access_key_age_days": 216,
+    "has_admin_policy": false,
+    "policy_count": 4,
+    "last_seen": "2025-12-09T13:05:43.816419",
+    "scan_timestamp": "2026-03-08T13:05:43.816421"
+  },
+  {
+    "resource_id": "iam-mmoore-655",
+    "resource_type": "IAM_USER",
+    "username": "ryangrant",
+    "mfa_enabled": true,
+    "days_since_last_login": 354,
+    "is_inactive": true,
+    "access_key_age_days": 60,
+    "has_admin_policy": false,
+    "policy_count": 5,
+    "last_seen": "2026-02-02T13:05:43.816555",
+    "scan_timestamp": "2026-03-08T13:05:43.816557"
+  },
+  {
+    "resource_id": "iam-justin79-463",
+    "resource_type": "IAM_USER",
+    "username": "terricampbell",
+    "mfa_enabled": true,
+    "days_since_last_login": 136,
+    "is_inactive": true,
+    "access_key_age_days": 249,
+    "has_admin_policy": false,
+    "policy_count": 1,
+    "last_seen": "2025-12-21T13:05:43.816677",
+    "scan_timestamp": "2026-03-08T13:05:43.816680"
+  },
+  {
+    "resource_id": "iam-gonzalezkathleen-342",
+    "resource_type": "IAM_USER",
+    "username": "cummingsalexander",
+    "mfa_enabled": true,
+    "days_since_last_login": 306,
+    "is_inactive": true,
+    "access_key_age_days": 81,
+    "has_admin_policy": false,
+    "policy_count": 3,
+    "last_seen": "2025-12-15T13:05:43.816845",
+    "scan_timestamp": "2026-03-08T13:05:43.816847"
+  },
+  {
+    "resource_id": "iam-woodlori-462",
+    "resource_type": "IAM_USER",
+    "username": "morrowlori",
+    "mfa_enabled": false,
+    "days_since_last_login": 351,
+    "is_inactive": true,
+    "access_key_age_days": 3,
+    "has_admin_policy": false,
+    "policy_count": 5,
+    "last_seen": "2025-12-17T13:05:43.817010",
+    "scan_timestamp": "2026-03-08T13:05:43.817013"
+  },
+  {
+    "resource_id": "iam-smithjordan-494",
+    "resource_type": "IAM_USER",
+    "username": "crosssandra",
+    "mfa_enabled": false,
+    "days_since_last_login": 48,
+    "is_inactive": false,
+    "access_key_age_days": 17,
+    "has_admin_policy": false,
+    "policy_count": 2,
+    "last_seen": "2026-02-15T13:05:43.817177",
+    "scan_timestamp": "2026-03-08T13:05:43.817179"
+  },
+  {
+    "resource_id": "iam-jordanashley-232",
+    "resource_type": "IAM_USER",
+    "username": "ncortez",
+    "mfa_enabled": true,
+    "days_since_last_login": 119,
+    "is_inactive": true,
+    "access_key_age_days": 372,
+    "has_admin_policy": false,
+    "policy_count": 4,
+    "last_seen": "2026-01-21T13:05:43.817314",
+    "scan_timestamp": "2026-03-08T13:05:43.817316"
+  },
+  {
+    "resource_id": "iam-kayla97-271",
+    "resource_type": "IAM_USER",
+    "username": "paulwalsh",
+    "mfa_enabled": true,
+    "days_since_last_login": 15,
+    "is_inactive": false,
+    "access_key_age_days": 365,
+    "has_admin_policy": false,
+    "policy_count": 3,
+    "last_seen": "2026-02-26T13:05:43.817437",
+    "scan_timestamp": "2026-03-08T13:05:43.817439"
+  },
+  {
+    "resource_id": "iam-aguirreamanda-843",
+    "resource_type": "IAM_USER",
+    "username": "uperez",
+    "mfa_enabled": true,
+    "days_since_last_login": 312,
+    "is_inactive": true,
+    "access_key_age_days": 245,
+    "has_admin_policy": true,
+    "policy_count": 3,
+    "last_seen": "2026-02-01T13:05:43.822833",
+    "scan_timestamp": "2026-03-08T13:05:43.822846"
+  },
+  {
+    "resource_id": "iam-tuckerdanny-938",
+    "resource_type": "IAM_USER",
+    "username": "lauren76",
+    "mfa_enabled": false,
+    "days_since_last_login": 354,
+    "is_inactive": true,
+    "access_key_age_days": 280,
+    "has_admin_policy": false,
+    "policy_count": 2,
+    "last_seen": "2026-02-19T13:05:43.822979",
+    "scan_timestamp": "2026-03-08T13:05:43.822981"
+  },
+  {
+    "resource_id": "iam-denisewright-729",
+    "resource_type": "IAM_USER",
+    "username": "alfredcolon",
+    "mfa_enabled": true,
+    "days_since_last_login": 359,
+    "is_inactive": true,
+    "access_key_age_days": 192,
+    "has_admin_policy": false,
+    "policy_count": 2,
+    "last_seen": "2026-01-08T13:05:43.823149",
+    "scan_timestamp": "2026-03-08T13:05:43.823152"
+  },
+  {
+    "resource_id": "iam-claudia46-565",
+    "resource_type": "IAM_USER",
+    "username": "ywilliams",
+    "mfa_enabled": true,
+    "days_since_last_login": 220,
+    "is_inactive": true,
+    "access_key_age_days": 130,
+    "has_admin_policy": false,
+    "policy_count": 6,
+    "last_seen": "2025-12-14T13:05:43.823244",
+    "scan_timestamp": "2026-03-08T13:05:43.823246"
+  },
+  {
+    "resource_id": "iam-qcooper-753",
+    "resource_type": "IAM_USER",
+    "username": "jonesscott",
+    "mfa_enabled": true,
+    "days_since_last_login": 93,
+    "is_inactive": true,
+    "access_key_age_days": 322,
+    "has_admin_policy": true,
+    "policy_count": 7,
+    "last_seen": "2025-12-30T13:05:43.823384",
+    "scan_timestamp": "2026-03-08T13:05:43.823386"
+  },
+  {
+    "resource_id": "iam-kevin36-208",
+    "resource_type": "IAM_USER",
+    "username": "csmith",
+    "mfa_enabled": false,
+    "days_since_last_login": 68,
+    "is_inactive": false,
+    "access_key_age_days": 339,
+    "has_admin_policy": false,
+    "policy_count": 4,
+    "last_seen": "2026-01-10T13:05:43.823477",
+    "scan_timestamp": "2026-03-08T13:05:43.823479"
+  },
+  {
+    "resource_id": "iam-angelaperez-723",
+    "resource_type": "IAM_USER",
+    "username": "christian09",
+    "mfa_enabled": false,
+    "days_since_last_login": 124,
+    "is_inactive": true,
+    "access_key_age_days": 30,
+    "has_admin_policy": false,
+    "policy_count": 4,
+    "last_seen": "2025-12-15T13:05:43.823600",
+    "scan_timestamp": "2026-03-08T13:05:43.823603"
+  },
+  {
+    "resource_id": "iam-maryserrano-551",
+    "resource_type": "IAM_USER",
+    "username": "bryanhaley",
+    "mfa_enabled": false,
+    "days_since_last_login": 38,
+    "is_inactive": false,
+    "access_key_age_days": 124,
+    "has_admin_policy": true,
+    "policy_count": 5,
+    "last_seen": "2026-01-30T13:05:43.823769",
+    "scan_timestamp": "2026-03-08T13:05:43.823771"
+  },
+  {
+    "resource_id": "iam-icook-193",
+    "resource_type": "IAM_USER",
+    "username": "chadbutler",
+    "mfa_enabled": false,
+    "days_since_last_login": 267,
+    "is_inactive": true,
+    "access_key_age_days": 210,
+    "has_admin_policy": false,
+    "policy_count": 3,
+    "last_seen": "2026-01-26T13:05:43.823905",
+    "scan_timestamp": "2026-03-08T13:05:43.823907"
+  },
+  {
+    "resource_id": "iam-lori56-729",
+    "resource_type": "IAM_USER",
+    "username": "jonesthomas",
+    "mfa_enabled": true,
+    "days_since_last_login": 326,
+    "is_inactive": true,
+    "access_key_age_days": 24,
+    "has_admin_policy": true,
+    "policy_count": 8,
+    "last_seen": "2026-02-15T13:05:43.824027",
+    "scan_timestamp": "2026-03-08T13:05:43.824029"
+  },
+  {
+    "resource_id": "sg-af1e4cf2",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.60.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824049"
+  },
+  {
+    "resource_id": "sg-d1cc25b9",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 3306,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "MySQL"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824062"
+  },
+  {
+    "resource_id": "sg-285e8b0e",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 3389,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "RDP"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824071"
+  },
+  {
+    "resource_id": "sg-702a68f0",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 27017,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "MongoDB"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824080"
+  },
+  {
+    "resource_id": "sg-cd018346",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.252.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824091"
+  },
+  {
+    "resource_id": "sg-48b31d64",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "source": "10.0.92.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824101"
+  },
+  {
+    "resource_id": "sg-21e19fac",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 5432,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "PostgreSQL"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824110"
+  },
+  {
+    "resource_id": "sg-a8f865bd",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 22,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "SSH"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824119"
+  },
+  {
+    "resource_id": "sg-49a6e9e8",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 6379,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "Redis"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824127"
+  },
+  {
+    "resource_id": "sg-dea83fa2",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "source": "10.0.148.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824136"
+  },
+  {
+    "resource_id": "sg-7174f314",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-west-2",
+    "inbound_rules": [
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "source": "10.0.145.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824145"
+  },
+  {
+    "resource_id": "sg-d997f21c",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "source": "10.0.189.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824154"
+  },
+  {
+    "resource_id": "sg-6ba3bca7",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "source": "10.0.183.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824163"
+  },
+  {
+    "resource_id": "sg-35ff5e0c",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "source": "10.0.37.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824172"
+  },
+  {
+    "resource_id": "sg-cb09ce76",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "source": "10.0.146.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824180"
+  },
+  {
+    "resource_id": "sg-aad27bd5",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 5432,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "PostgreSQL"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824189"
+  },
+  {
+    "resource_id": "sg-bdc7a9f5",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-west-2",
+    "inbound_rules": [
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "source": "10.0.171.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824198"
+  },
+  {
+    "resource_id": "sg-cee13482",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 3389,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "RDP"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824206"
+  },
+  {
+    "resource_id": "sg-22a706bd",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "source": "10.0.177.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824215"
+  },
+  {
+    "resource_id": "sg-42a571e5",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-west-2",
+    "inbound_rules": [
+      {
+        "port": 3389,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "RDP"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824224"
+  },
+  {
+    "resource_id": "sg-2a17475b",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.171.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824233"
+  },
+  {
+    "resource_id": "sg-9a836b65",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.56.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824242"
+  },
+  {
+    "resource_id": "sg-fa0b077a",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.236.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824251"
+  },
+  {
+    "resource_id": "sg-c404fb02",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 3389,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "RDP"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824259"
+  },
+  {
+    "resource_id": "sg-578ad78c",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.172.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824268"
+  },
+  {
+    "resource_id": "sg-ee373491",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-west-2",
+    "inbound_rules": [
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "source": "10.0.124.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824277"
+  },
+  {
+    "resource_id": "sg-c7597414",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.141.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824286"
+  },
+  {
+    "resource_id": "sg-10afc44c",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.144.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824294"
+  },
+  {
+    "resource_id": "sg-40f39b89",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 3389,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "RDP"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824428"
+  },
+  {
+    "resource_id": "sg-38ffb5fd",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 22,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "SSH"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824566"
+  },
+  {
+    "resource_id": "sg-aac599c1",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-west-2",
+    "inbound_rules": [
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "source": "10.0.169.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824602"
+  },
+  {
+    "resource_id": "sg-f741dade",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 22,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "SSH"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824655"
+  },
+  {
+    "resource_id": "sg-b64f4a74",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 5432,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "PostgreSQL"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824666"
+  },
+  {
+    "resource_id": "sg-eb936c31",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 22,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "SSH"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824675"
+  },
+  {
+    "resource_id": "sg-2c894a50",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.124.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824684"
+  },
+  {
+    "resource_id": "sg-11ab853a",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.141.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824693"
+  },
+  {
+    "resource_id": "sg-f310a2e1",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 3306,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "MySQL"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824701"
+  },
+  {
+    "resource_id": "sg-f16679fc",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.214.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824710"
+  },
+  {
+    "resource_id": "sg-0dd5f926",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.157.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824719"
+  },
+  {
+    "resource_id": "sg-e976a295",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-west-2",
+    "inbound_rules": [
+      {
+        "port": 3306,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "MySQL"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824728"
+  },
+  {
+    "resource_id": "sg-d9f1d632",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 6379,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "Redis"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824736"
+  },
+  {
+    "resource_id": "sg-208d3718",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.123.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824744"
+  },
+  {
+    "resource_id": "sg-7f4dd4f5",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 6379,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "Redis"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824753"
+  },
+  {
+    "resource_id": "sg-7a18f6d1",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.35.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824762"
+  },
+  {
+    "resource_id": "sg-8ee604a7",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-west-2",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.48.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824770"
+  },
+  {
+    "resource_id": "sg-bbda6751",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 22,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "SSH"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824779"
+  },
+  {
+    "resource_id": "sg-34fb6fe7",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-west-2",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.191.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824788"
+  },
+  {
+    "resource_id": "sg-c7be5d3b",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 3389,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "RDP"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824796"
+  },
+  {
+    "resource_id": "sg-221735c0",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "source": "10.0.139.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824805"
+  },
+  {
+    "resource_id": "sg-99e322d0",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-west-2",
+    "inbound_rules": [
+      {
+        "port": 3389,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "RDP"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824813"
+  },
+  {
+    "resource_id": "sg-e41f0e9f",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.75.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824821"
+  },
+  {
+    "resource_id": "sg-64d4123d",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.76.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824830"
+  },
+  {
+    "resource_id": "sg-0980a553",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "source": "10.0.184.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824839"
+  },
+  {
+    "resource_id": "sg-2a1bdf31",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-west-2",
+    "inbound_rules": [
+      {
+        "port": 22,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "SSH"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824848"
+  },
+  {
+    "resource_id": "sg-2798fc11",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-west-2",
+    "inbound_rules": [
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "source": "10.0.74.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824856"
+  },
+  {
+    "resource_id": "sg-5563a3e5",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.81.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824865"
+  },
+  {
+    "resource_id": "sg-1086f9e3",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-west-2",
+    "inbound_rules": [
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "source": "10.0.198.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824874"
+  },
+  {
+    "resource_id": "sg-0d2fed28",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "source": "10.0.207.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824883"
+  },
+  {
+    "resource_id": "sg-db9f1b66",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 3389,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "RDP"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824891"
+  },
+  {
+    "resource_id": "sg-6ca816ce",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.136.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824901"
+  },
+  {
+    "resource_id": "sg-cb3320ba",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "source": "10.0.243.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824910"
+  },
+  {
+    "resource_id": "sg-165ad306",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.92.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824918"
+  },
+  {
+    "resource_id": "sg-e0f7ae54",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.233.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824927"
+  },
+  {
+    "resource_id": "sg-c5961c37",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.137.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824936"
+  },
+  {
+    "resource_id": "sg-4e99427c",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-west-2",
+    "inbound_rules": [
+      {
+        "port": 27017,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "MongoDB"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824945"
+  },
+  {
+    "resource_id": "sg-1aa68044",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.59.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824953"
+  },
+  {
+    "resource_id": "sg-eaadb1fa",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "source": "10.0.191.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824962"
+  },
+  {
+    "resource_id": "sg-2d56e8d1",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-east-1",
+    "inbound_rules": [
+      {
+        "port": 22,
+        "protocol": "tcp",
+        "source": "0.0.0.0/0",
+        "service": "SSH"
+      }
+    ],
+    "open_to_internet": true,
+    "scan_timestamp": "2026-03-08T13:05:43.824971"
+  },
+  {
+    "resource_id": "sg-76e9f93b",
+    "resource_type": "SECURITY_GROUP",
+    "region": "eu-west-1",
+    "inbound_rules": [
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "source": "10.0.154.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.824979"
+  },
+  {
+    "resource_id": "sg-071f33fc",
+    "resource_type": "SECURITY_GROUP",
+    "region": "us-west-2",
+    "inbound_rules": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "source": "10.0.67.0/24",
+        "service": "Internal"
+      }
+    ],
+    "open_to_internet": false,
+    "scan_timestamp": "2026-03-08T13:05:43.825089"
+  },
+  {
+    "resource_id": "rds-which-exist-94",
+    "resource_type": "RDS",
+    "engine": "postgres",
+    "region": "us-east-1",
+    "publicly_accessible": false,
+    "encryption_at_rest": true,
+    "backup_enabled": true,
+    "multi_az": false,
+    "instance_class": "db.t3.small",
+    "storage_gb": 60,
+    "scan_timestamp": "2026-03-08T13:05:43.825238"
+  },
+  {
+    "resource_id": "rds-similar-wall-83",
+    "resource_type": "RDS",
+    "engine": "mariadb",
+    "region": "eu-west-1",
+    "publicly_accessible": false,
+    "encryption_at_rest": true,
+    "backup_enabled": true,
+    "multi_az": false,
+    "instance_class": "db.t3.small",
+    "storage_gb": 527,
+    "scan_timestamp": "2026-03-08T13:05:43.825287"
+  },
+  {
+    "resource_id": "rds-social-challenge-99",
+    "resource_type": "RDS",
+    "engine": "mariadb",
+    "region": "eu-west-1",
+    "publicly_accessible": false,
+    "encryption_at_rest": true,
+    "backup_enabled": false,
+    "multi_az": true,
+    "instance_class": "db.t3.micro",
+    "storage_gb": 728,
+    "scan_timestamp": "2026-03-08T13:05:43.825302"
+  },
+  {
+    "resource_id": "rds-weight-collection-17",
+    "resource_type": "RDS",
+    "engine": "sqlserver",
+    "region": "us-west-2",
+    "publicly_accessible": false,
+    "encryption_at_rest": true,
+    "backup_enabled": true,
+    "multi_az": false,
+    "instance_class": "db.m5.large",
+    "storage_gb": 614,
+    "scan_timestamp": "2026-03-08T13:05:43.825312"
+  },
+  {
+    "resource_id": "rds-house-everyone-15",
+    "resource_type": "RDS",
+    "engine": "mariadb",
+    "region": "us-west-2",
+    "publicly_accessible": false,
+    "encryption_at_rest": true,
+    "backup_enabled": true,
+    "multi_az": true,
+    "instance_class": "db.m5.large",
+    "storage_gb": 868,
+    "scan_timestamp": "2026-03-08T13:05:43.825322"
+  },
+  {
+    "resource_id": "rds-gun-step-though-98",
+    "resource_type": "RDS",
+    "engine": "mysql",
+    "region": "us-west-2",
+    "publicly_accessible": false,
+    "encryption_at_rest": false,
+    "backup_enabled": false,
+    "multi_az": false,
+    "instance_class": "db.m5.large",
+    "storage_gb": 571,
+    "scan_timestamp": "2026-03-08T13:05:43.825332"
+  },
+  {
+    "resource_id": "rds-though-future-seem-50",
+    "resource_type": "RDS",
+    "engine": "mysql",
+    "region": "us-west-2",
+    "publicly_accessible": false,
+    "encryption_at_rest": true,
+    "backup_enabled": false,
+    "multi_az": false,
+    "instance_class": "db.m5.large",
+    "storage_gb": 171,
+    "scan_timestamp": "2026-03-08T13:05:43.825343"
+  },
+  {
+    "resource_id": "rds-summer-section-94",
+    "resource_type": "RDS",
+    "engine": "oracle",
+    "region": "us-west-2",
+    "publicly_accessible": false,
+    "encryption_at_rest": false,
+    "backup_enabled": false,
+    "multi_az": true,
+    "instance_class": "db.t3.micro",
+    "storage_gb": 655,
+    "scan_timestamp": "2026-03-08T13:05:43.825371"
+  },
+  {
+    "resource_id": "rds-trade-make-65",
+    "resource_type": "RDS",
+    "engine": "sqlserver",
+    "region": "us-east-1",
+    "publicly_accessible": false,
+    "encryption_at_rest": true,
+    "backup_enabled": true,
+    "multi_az": false,
+    "instance_class": "db.m5.large",
+    "storage_gb": 105,
+    "scan_timestamp": "2026-03-08T13:05:43.825413"
+  },
+  {
+    "resource_id": "rds-any-test-investment-92",
+    "resource_type": "RDS",
+    "engine": "mysql",
+    "region": "eu-west-1",
+    "publicly_accessible": false,
+    "encryption_at_rest": true,
+    "backup_enabled": true,
+    "multi_az": true,
+    "instance_class": "db.t3.micro",
+    "storage_gb": 489,
+    "scan_timestamp": "2026-03-08T13:05:43.825459"
+  },
+  {
+    "resource_id": "rds-box-point-project-66",
+    "resource_type": "RDS",
+    "engine": "oracle",
+    "region": "us-west-2",
+    "publicly_accessible": false,
+    "encryption_at_rest": true,
+    "backup_enabled": true,
+    "multi_az": false,
+    "instance_class": "db.t3.small",
+    "storage_gb": 461,
+    "scan_timestamp": "2026-03-08T13:05:43.825491"
+  },
+  {
+    "resource_id": "rds-without-book-gas-85",
+    "resource_type": "RDS",
+    "engine": "oracle",
+    "region": "us-east-1",
+    "publicly_accessible": true,
+    "encryption_at_rest": true,
+    "backup_enabled": true,
+    "multi_az": false,
+    "instance_class": "db.t3.micro",
+    "storage_gb": 290,
+    "scan_timestamp": "2026-03-08T13:05:43.825503"
+  },
+  {
+    "resource_id": "rds-company-question-76",
+    "resource_type": "RDS",
+    "engine": "oracle",
+    "region": "eu-west-1",
+    "publicly_accessible": false,
+    "encryption_at_rest": true,
+    "backup_enabled": true,
+    "multi_az": false,
+    "instance_class": "db.t3.micro",
+    "storage_gb": 393,
+    "scan_timestamp": "2026-03-08T13:05:43.825511"
+  },
+  {
+    "resource_id": "rds-firm-wish-raise-14",
+    "resource_type": "RDS",
+    "engine": "mariadb",
+    "region": "us-west-2",
+    "publicly_accessible": false,
+    "encryption_at_rest": false,
+    "backup_enabled": true,
+    "multi_az": true,
+    "instance_class": "db.t3.small",
+    "storage_gb": 459,
+    "scan_timestamp": "2026-03-08T13:05:43.825521"
+  },
+  {
+    "resource_id": "rds-much-mission-name-46",
+    "resource_type": "RDS",
+    "engine": "postgres",
+    "region": "eu-west-1",
+    "publicly_accessible": true,
+    "encryption_at_rest": true,
+    "backup_enabled": true,
+    "multi_az": false,
+    "instance_class": "db.t3.micro",
+    "storage_gb": 421,
+    "scan_timestamp": "2026-03-08T13:05:43.825530"
+  },
+  {
+    "resource_id": "rds-not-benefit-well-35",
+    "resource_type": "RDS",
+    "engine": "oracle",
+    "region": "us-west-2",
+    "publicly_accessible": true,
+    "encryption_at_rest": true,
+    "backup_enabled": false,
+    "multi_az": true,
+    "instance_class": "db.t3.micro",
+    "storage_gb": 23,
+    "scan_timestamp": "2026-03-08T13:05:43.825540"
+  },
+  {
+    "resource_id": "rds-oil-raise-stay-24",
+    "resource_type": "RDS",
+    "engine": "mariadb",
+    "region": "us-east-1",
+    "publicly_accessible": false,
+    "encryption_at_rest": true,
+    "backup_enabled": true,
+    "multi_az": true,
+    "instance_class": "db.m5.large",
+    "storage_gb": 443,
+    "scan_timestamp": "2026-03-08T13:05:43.825549"
+  },
+  {
+    "resource_id": "rds-piece-meeting-33",
+    "resource_type": "RDS",
+    "engine": "sqlserver",
+    "region": "eu-west-1",
+    "publicly_accessible": true,
+    "encryption_at_rest": true,
+    "backup_enabled": true,
+    "multi_az": false,
+    "instance_class": "db.t3.micro",
+    "storage_gb": 532,
+    "scan_timestamp": "2026-03-08T13:05:43.825557"
+  },
+  {
+    "resource_id": "rds-his-why-west-return-35",
+    "resource_type": "RDS",
+    "engine": "mysql",
+    "region": "eu-west-1",
+    "publicly_accessible": false,
+    "encryption_at_rest": true,
+    "backup_enabled": false,
+    "multi_az": false,
+    "instance_class": "db.t3.small",
+    "storage_gb": 735,
+    "scan_timestamp": "2026-03-08T13:05:43.825568"
+  },
+  {
+    "resource_id": "rds-family-area-program-74",
+    "resource_type": "RDS",
+    "engine": "oracle",
+    "region": "us-west-2",
+    "publicly_accessible": false,
+    "encryption_at_rest": true,
+    "backup_enabled": true,
+    "multi_az": true,
+    "instance_class": "db.m5.large",
+    "storage_gb": 486,
+    "scan_timestamp": "2026-03-08T13:05:43.825578"
+  },
+  {
+    "resource_id": "rds-itself-team-image-96",
+    "resource_type": "RDS",
+    "engine": "sqlserver",
+    "region": "us-east-1",
+    "publicly_accessible": false,
+    "encryption_at_rest": true,
+    "backup_enabled": true,
+    "multi_az": false,
+    "instance_class": "db.t3.small",
+    "storage_gb": 342,
+    "scan_timestamp": "2026-03-08T13:05:43.825594"
+  },
+  {
+    "resource_id": "rds-lawyer-experience-68",
+    "resource_type": "RDS",
+    "engine": "mysql",
+    "region": "us-east-1",
+    "publicly_accessible": true,
+    "encryption_at_rest": true,
+    "backup_enabled": false,
+    "multi_az": true,
+    "instance_class": "db.t3.micro",
+    "storage_gb": 663,
+    "scan_timestamp": "2026-03-08T13:05:43.825612"
+  },
+  {
+    "resource_id": "rds-assume-drive-57",
+    "resource_type": "RDS",
+    "engine": "mysql",
+    "region": "eu-west-1",
+    "publicly_accessible": false,
+    "encryption_at_rest": true,
+    "backup_enabled": false,
+    "multi_az": false,
+    "instance_class": "db.m5.large",
+    "storage_gb": 576,
+    "scan_timestamp": "2026-03-08T13:05:43.825622"
+  },
+  {
+    "resource_id": "rds-hear-probably-97",
+    "resource_type": "RDS",
+    "engine": "mariadb",
+    "region": "us-west-2",
+    "publicly_accessible": false,
+    "encryption_at_rest": true,
+    "backup_enabled": true,
+    "multi_az": false,
+    "instance_class": "db.t3.small",
+    "storage_gb": 679,
+    "scan_timestamp": "2026-03-08T13:05:43.825631"
+  },
+  {
+    "resource_id": "rds-laugh-site-physical-89",
+    "resource_type": "RDS",
+    "engine": "mysql",
+    "region": "us-west-2",
+    "publicly_accessible": false,
+    "encryption_at_rest": false,
+    "backup_enabled": true,
+    "multi_az": true,
+    "instance_class": "db.t3.small",
+    "storage_gb": 789,
+    "scan_timestamp": "2026-03-08T13:05:43.825640"
+  },
+  {
+    "resource_id": "rds-various-month-hit-95",
+    "resource_type": "RDS",
+    "engine": "mysql",
+    "region": "eu-west-1",
+    "publicly_accessible": true,
+    "encryption_at_rest": true,
+    "backup_enabled": true,
+    "multi_az": true,
+    "instance_class": "db.t3.micro",
+    "storage_gb": 852,
+    "scan_timestamp": "2026-03-08T13:05:43.825752"
+  },
+  {
+    "resource_id": "rds-relate-mention-45",
+    "resource_type": "RDS",
+    "engine": "postgres",
+    "region": "us-west-2",
+    "publicly_accessible": false,
+    "encryption_at_rest": true,
+    "backup_enabled": true,
+    "multi_az": true,
+    "instance_class": "db.t3.micro",
+    "storage_gb": 710,
+    "scan_timestamp": "2026-03-08T13:05:43.825801"
+  },
+  {
+    "resource_id": "rds-up-tend-somebody-24",
+    "resource_type": "RDS",
+    "engine": "sqlserver",
+    "region": "us-east-1",
+    "publicly_accessible": false,
+    "encryption_at_rest": true,
+    "backup_enabled": true,
+    "multi_az": false,
+    "instance_class": "db.m5.large",
+    "storage_gb": 854,
+    "scan_timestamp": "2026-03-08T13:05:43.825837"
+  },
+  {
+    "resource_id": "rds-bring-senior-senior-43",
+    "resource_type": "RDS",
+    "engine": "mysql",
+    "region": "us-east-1",
+    "publicly_accessible": false,
+    "encryption_at_rest": true,
+    "backup_enabled": false,
+    "multi_az": true,
+    "instance_class": "db.t3.small",
+    "storage_gb": 497,
+    "scan_timestamp": "2026-03-08T13:05:43.825895"
+  },
+  {
+    "resource_id": "rds-method-suffer-11",
+    "resource_type": "RDS",
+    "engine": "sqlserver",
+    "region": "us-east-1",
+    "publicly_accessible": true,
+    "encryption_at_rest": true,
+    "backup_enabled": true,
+    "multi_az": true,
+    "instance_class": "db.m5.large",
+    "storage_gb": 306,
+    "scan_timestamp": "2026-03-08T13:05:43.825908"
+  }
+]
