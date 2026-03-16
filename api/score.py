@@ -51,3 +51,49 @@ def get_score():
 def get_trend(days: int = 7):
     """Returns score history for the drift/trend line chart."""
     return get_risk_trend(days)
+@router.post("/scan")
+async def run_scan():
+    """
+    Triggers a full scan — generates new data, runs rules, indexes findings,
+    saves snapshot. This is what the Run Scan button calls.
+    """
+    try:
+        import sys, os
+        sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
+
+        from data.generator import generate_full_dataset
+        from engine.rules import scan_all_resources
+        from engine.scorer import generate_posture_report
+        from elastic.indexer import index_resources, index_findings, index_scan_snapshot
+
+        print("🔄 Scan triggered from frontend...")
+
+        # Generate fresh data
+        resources = generate_full_dataset()
+
+        # Run rules
+        findings_result = scan_all_resources(resources)
+
+        # Index everything
+        index_resources(resources)
+        index_findings(findings_result["all_findings"])
+
+        # Save snapshot
+        report = generate_posture_report(resources, findings_result)
+        index_scan_snapshot(report)
+
+        print("✅ Scan complete!")
+
+        return {
+            "status":          "success",
+            "message":         "Scan completed successfully",
+            "security_score":  report["security"]["security_score"],
+            "total_findings":  report["finding_count"],
+            "monthly_waste":   report["cost"]["total_monthly_waste_usd"],
+            "scanned_at":      report["generated_at"],
+        }
+
+    except Exception as e:
+        import traceback
+        traceback.print_exc()
+        return {"status": "error", "message": str(e)}
