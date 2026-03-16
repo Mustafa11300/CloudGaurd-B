@@ -1,26 +1,8 @@
-# Web framework — handles HTTP requests like a receptionist
 fastapi==0.110.0
-
-# Runs FastAPI — think of it as the building that hosts the receptionist
 uvicorn==0.27.0
-
-# Elasticsearch Python client — lets Python talk to ES database
 elasticsearch==8.12.0
-
-# AWS SDK — lets Python talk to Amazon services (Nova AI)
 boto3==1.34.0
-
-# Creates fake realistic data
 faker==23.2.0
-
-# Reads .env files (your secret keys)
 python-dotenv==1.0.0
-
-# Data validation — ensures data has correct shape
-pydantic==2.6.0
-
-# HTTP requests library
+pydantic==2.6.4
 requests==2.31.0
-
-# For structured data handling
-pandas==2.2.0

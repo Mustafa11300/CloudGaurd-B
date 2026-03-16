@@ -1,11 +1,40 @@
-.env
+# Check if .gitignore exists
+ls -la .gitignore
 
-# Python virtual environment
-venv/
-
-# Python cache files
+# If it doesn't exist, create it
+cat > .gitignore << 'EOF'
+# Python
 __pycache__/
 *.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+.venv/
+env/
 
-# macOS metadata
+# Environment variables (SENSITIVE!)
+.env
+*.env.local
+*.env.production
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# OS
 .DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+*.egg-info/
+EOF
