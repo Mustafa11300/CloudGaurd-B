@@ -104,7 +104,7 @@ def index_scan_snapshot(report: dict):
     import uuid
     snapshot = {
         "scan_id":           str(uuid.uuid4()),
-        "timestamp":         datetime.now().isoformat(),
+        "timestamp": report.get("timestamp"),
         "security_score":    report["security"]["security_score"],
         "cost_health_score": report["cost"]["cost_health_score"],
         "total_findings":    report["finding_count"],
