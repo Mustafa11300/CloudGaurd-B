@@ -128,6 +128,7 @@ async def run_scan():
     # Do this BEFORE any ES writes so score is based on clean in-memory data
     try:
         report = generate_posture_report(resources, findings_result)
+        report["timestamp"] = scan_started_at
     except Exception as e:
         logger.error(f"Report generation failed: {e}")
         raise HTTPException(status_code=500, detail=f"Report generation failed: {str(e)}")
